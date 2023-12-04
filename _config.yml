@@ -113,6 +113,13 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+jekyll_compose:
+  default_front_matter:
+    posts:
+      category: []
+      tags: []
+      img_path: /assets/img/posts/
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
