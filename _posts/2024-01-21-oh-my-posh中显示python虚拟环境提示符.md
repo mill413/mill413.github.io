@@ -20,5 +20,5 @@ img_path: "/assets/img/posts/"
           },
           "foreground": "#ffffff",
           "template": "({{ if .Error }}{{ .Error }}{{ else }}{{ if .Venv }}{{ .Venv }}{{ end }}{{ end }}) "
-},
+}
 ```
