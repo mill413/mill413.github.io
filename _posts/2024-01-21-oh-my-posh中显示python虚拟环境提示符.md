@@ -9,7 +9,6 @@ img_path: "/assets/img/posts/"
 
 我的ohmyposh主题一直用的robbyrussell主题，但是他在python的虚拟环境中无法显示虚拟环境提示符，原因是他压根没写python的segment，我就自己写了一个加进去
 
-{% raw %}
 ```json
 {
           "type": "python",
@@ -23,4 +22,3 @@ img_path: "/assets/img/posts/"
           "template": "({{ if .Error }}{{ .Error }}{{ else }}{{ if .Venv }}{{ .Venv }}{{ end }}{{ end }}) "
 }
 ```
-{% endrow %}
