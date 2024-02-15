@@ -51,6 +51,9 @@ google_site_verification: MgeTYfWssWnYjfaNuJaKe50NkjR9eOXEbKTzTVH64Qg # fill in 
 google_analytics:
   id: G-HCM1SFTB3T # fill in your Google Analytics ID
 
+goatcounter:
+  id: # fill in your Goatcounter ID
+
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
