@@ -2,7 +2,7 @@
 layout: post
 title: Archlinux+KDE美化记录
 date: 2023-10-03 21:47 +0800
-category: [记录, 美化]
+category: [记录]
 tags: [archlinux,美化,kde,wayland]
 img_path: /assets/img/posts/231003/
 image: 

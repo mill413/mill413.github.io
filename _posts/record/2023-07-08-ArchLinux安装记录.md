@@ -1,7 +1,7 @@
 ---
 title: ArchLinux安装记录
 date: 2023-03-09 20:43:00 +0800
-categories: [记录, linux]
+categories: [记录]
 tags: [archlinux]
 ---
 
