@@ -7,7 +7,8 @@ tags: [archlinux,kde,wayland]
 pin: true
 ---
 
-*请注意本文时效性*
+> 请注意本文时效性
+{: .prompt-warning }
 
 由于用了几个月之后太多软件在硬盘里拉屎（指config），我选择直接重装系统，并对之前写的安装步骤做一些优化，比如删去xorg,更换内核等
 
