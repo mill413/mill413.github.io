@@ -8,7 +8,6 @@ img_path: /assets/img/posts/231003/
 image: 
     path: preview.png
     alt: 美化后的桌面，点击查看大图
-pin: true
 ---
 
 很简单的美化，做一个流水账式的记录

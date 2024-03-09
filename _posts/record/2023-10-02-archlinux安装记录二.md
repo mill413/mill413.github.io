@@ -4,7 +4,6 @@ title: ArchLinux安装记录二
 date: 2023-10-02 18:28 +0800
 category: [记录]
 tags: [archlinux,kde,wayland]
-pin: true
 ---
 
 > 请注意本文时效性
