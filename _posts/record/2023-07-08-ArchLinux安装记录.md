@@ -5,7 +5,8 @@ categories: [记录]
 tags: [archlinux]
 ---
 
-*请注意本文时效性*
+> 请注意本文时效性
+{: .prompt-warning }
 
 ## 0 准备工作
 

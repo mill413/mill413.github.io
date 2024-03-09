@@ -62,7 +62,8 @@ timedatectl status
    | /dev/nvme0n1p2 |    16G    |    Linux Swap    |
    | /dev/nvme0n1p3 | 其余全部 | Linux filesystem |
 
-*swap分区大小视电脑内存大小而定*
+> swap分区大小视电脑内存大小而定
+{: .prompt-info }
 
 #### 格式化分区
 
