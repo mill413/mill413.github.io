@@ -339,6 +339,12 @@ sudo pacman-key --lsign-key "farseerfc@archlinux.org"
 
 ##### telegram
 
+#### 音乐
+
+##### r3playx
+
+##### QQ音乐
+
 #### 编辑器
 
 ##### Visual Studio Code
