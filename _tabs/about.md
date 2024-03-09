@@ -16,7 +16,7 @@ NS玩家  | Nintendo Switch player
 
 Archlinux用户  | Archlinux User Recently
 
-欢迎来我的[**博客**](http://mill413.github.io/)  | Welcome to my [**Blog**](http://mill413.github.io/)
+欢迎来我的[**博客**](https://mill413.github.io/)  | Welcome to my [**Blog**](https://mill413.github.io/)
 
 ----------------------
 
