@@ -218,7 +218,7 @@ pacman -S zsh
 
 #### 添加用户
 
-添加用户，这里的haruto为用户名
+这里的haruto为用户名
 
 ```console
 useradd -m haruto -G wheel,users,storage,adm -s /bin/zsh
@@ -231,8 +231,6 @@ passwd haruto
 ```
 
 ##### 修改用户权限
-
-我在修改权限时使用`visudo`命令出现了错误，这里选择直接修改`/etc/sudoers`文件
 
 ```console
 export EDITOR=vim
