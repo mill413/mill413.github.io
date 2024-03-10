@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# 基本信息 | Basic Information 👋
+## 基本信息 | Basic Information 👋
 
 Mill是南极洲的一个岛屿  | Mill is an island in Antarctica.
 
