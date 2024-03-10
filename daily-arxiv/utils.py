@@ -13,7 +13,7 @@ logging.basicConfig(format="[%(asctime)s %(levelname)s] %(message)s",
                     level=logging.INFO)
 
 # load config from file
-with open("config.toml", "rb") as f:
+with open("daily-arxiv/config.toml", "rb") as f:
     config = tomllib.load(f)
 
 
