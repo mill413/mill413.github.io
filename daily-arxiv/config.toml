@@ -1,6 +1,6 @@
 max_results = 10
 
-file_path = "../_tabs/arxiv.md"
+file_path = "_tabs/arxiv.md"
 
 [[topics]]
 name = "小目标"
