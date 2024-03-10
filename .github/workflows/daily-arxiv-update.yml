@@ -42,5 +42,6 @@ jobs:
         commit-message: "Github Action Automatic Update Arxiv Papers"
         files: _tabs/arxiv.md
         rebase: 'true'
+        push_branch: 'master'
         name: ${{ env.GITHUB_USER_NAME }}
         email: ${{ env.GITHUB_USER_EMAIL }}
