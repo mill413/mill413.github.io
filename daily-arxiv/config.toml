@@ -1,4 +1,4 @@
-max_results = 30
+max_results = 10
 
 file_path = "../_tabs/arxiv.md"
 
