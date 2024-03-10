@@ -38,7 +38,7 @@ jobs:
     - name: Push new index.md
       uses: github-actions-x/commit@v2.9
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+        github-token: ${{ secrets.arxiv }}
         commit-message: "Github Action Automatic Update Arxiv Papers"
         files: _tabs/arxiv.md
         rebase: 'true'
