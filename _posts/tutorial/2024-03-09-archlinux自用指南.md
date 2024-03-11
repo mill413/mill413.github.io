@@ -329,7 +329,7 @@ sudo pacman-key --lsign-key "farseerfc@archlinux.org"
    reboot
    ```
 
-### 美化及其他设置
+### KDE设置
 
 #### 输入和输出
 
@@ -419,6 +419,14 @@ sudo pacman-key --lsign-key "farseerfc@archlinux.org"
 
    4. 选择最小化过渡动画（神灯）
 
+   5. 圆角
+
+      安装`kwin-effect-rounded-corners-git`
+
+      ```console
+      paru kwin-effect-rounded-corners-git
+      ```
+
 - 活动
 
    修改名称和图标
@@ -494,6 +502,9 @@ paru r3playx-bin
 ```
 {: file='~/.config/electron28-flags.conf'}
 
+> 注意在wayland下全局菜单会失效
+{: .prompt-warn}
+
 #### 编程
 
 ##### Visual Studio Code
@@ -549,6 +560,91 @@ paru google-chrome
 
 ##### konsole
 
+新建一个配置方案
+
+###### 外观
+
+- 配色方案和字体
+
+   选择`Breeze微风`
+
+   字体选择`JetBrainsMonoNL`
+
+- 光标
+
+   形状选择`|字型`
+
+   启用`闪烁`
+
+- 杂项
+
+   边距调整为5像素
+
+   取消选中`调整大小后显示终端大小提示`
+
+###### 滚动
+
+   滚动条位置选择`隐藏`
+
+   取消选中`高亮显示刚刚进入视图的行`
+
+###### 鼠标
+
+- 文本交互
+
+   复制选项全部选中
+
+- 杂项
+
+   选中文件加下划线
+
 ##### oh-my-zsh
 
+- 安装`oh-my-zsh`
+
+   ```console
+   paru oh-my-zsh-git
+   ```
+
+   安装完成后生成`.zshrc`文件
+
+   ```console
+   cp /usr/share/oh-my-zsh/zshrc ~/.zshrc
+   ```
+
+- 安装`zsh-autosuggestions`插件
+
+   ```console
+   git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+   ```
+
+- 安装`fast-syntax-highlighting`插件
+
+   ```console
+   git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
+  ```
+
+- 编辑`~/.zshrc`
+
+   找到plugins行
+
+   ```text
+   plugins=(git extract zsh-autosuggestions fast-syntax-highlighting)
+   ```
+   {: file='~/.zshrc'}
+
 ##### fastfetch
+
+- 安装`fastfetch`
+
+   ```console
+   paru fastfetch
+   ```
+
+- 生成配置文件
+
+   ```console
+   fastfetch --gen-config
+   ```
+
+- 编辑`~/.config/fastfetch/config.json`，删除不需要的项
