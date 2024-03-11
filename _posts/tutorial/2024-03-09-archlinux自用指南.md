@@ -423,7 +423,6 @@ sudo pacman-key --lsign-key "farseerfc@archlinux.org"
 
    修改名称和图标
 
-
 #### 工作区
 
 - 常规行为
@@ -434,31 +433,97 @@ sudo pacman-key --lsign-key "farseerfc@archlinux.org"
 
    `文件搜索`中`要索引的数据`选择`仅文件名`
 
-### 软件选择
+### 应用软件
 
 #### AUR
+
+AUR的选择目前来看有两个，yay和paru
+
+我选择paru
+
+```console
+sudo pacman -S paru
+```
 
 #### 通讯软件
 
 ##### QQ
 
+```console
+paru linuxqq
+```
+
+如果要让qq运行在wayland下
+
+```text
+--ozone-platform-hint=auto
+--enable-wayland-ime
+```
+{: file='~/.config/qq-flags.conf'}
+
 ##### telegram
+
+> 截止2024/03/11 我遇到了telegram客户端的自动夜间模式失效的情况
+>
+> 参考[github的issue](https://github.com/telegramdesktop/tdesktop/issues/27431)
+>
+> 貌似一直都是坏的，就这样吧
+{: .prompt-warn}
+
+```console
+paru telegram-desktop
+```
 
 #### 音乐
 
 ##### r3playx
 
-##### QQ音乐
+等待网易云音乐官方linux版，r3也不错
+
+```console
+paru r3playx-bin
+```
+
+如果要让他跑在wayland下
+
+```text
+--enable-features=WaylandWindowDecorations
+--ozone-platform-hint=auto
+```
+{: file='~/.config/electron28-flags.conf'}
 
 #### 编程
 
 ##### Visual Studio Code
 
+```console
+paru visual-studio-code-bin
+```
+
 ##### Datagrip
+
+```console
+paru datagrip
+paru datagrip-jre
+```
+
+后者是patche
 
 #### 浏览器
 
 ##### Chrome
+
+```console
+paru google-chrome
+```
+
+如果要跑在wayland下
+
+```text
+--ozone-platform-hint=auto
+--enable-wayland-ime
+```
+{: file='~/.config/chrome-flags.conf'}
 
 #### 工具
 
@@ -478,6 +543,10 @@ sudo pacman-key --lsign-key "farseerfc@archlinux.org"
 
 ##### Kate
 
-#### 游戏
+#### 终端使用
 
-##### steam
+##### konsole
+
+##### oh-my-zsh
+
+##### fastfetch
