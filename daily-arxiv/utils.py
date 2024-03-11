@@ -86,8 +86,7 @@ def parse_papers(results: Generator[Result, None, None]) -> list[Paper]:
 
 
 def content_to_md(content: dict, file: str):
-    now = datetime.utcnow().replace(tzinfo=timezone.utc).astimezone(
-        timezone(timedelta(hours=8))).strftime("%Y/%m/%d %H:%M:%S")
+    now = datetime.now().strftime("%Y/%m/%d %H:%M:%S")
 
     topic_block = []
     for topic, papers in content.items():
@@ -109,6 +108,6 @@ def content_to_md(content: dict, file: str):
             "order": "4",
             "toc": "true",
         }),
-        Blockquote(f"更新于 {now}"),
+        f"> 更新于 {now}\n"+"{: .prompt-info}",
         topic_block
     ).write_to_file(file)

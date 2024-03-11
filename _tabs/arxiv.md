@@ -5,7 +5,8 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/03/11 08:39:27
+> 更新于 2024/03/11 20:10:47
+{: .prompt-info}
 
 ## 小目标
 
@@ -26,6 +27,9 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models](http://arxiv.org/abs/2403.05160v1) |  |
+| [Multimodal Infusion Tuning for Large Models](http://arxiv.org/abs/2403.05060v1) |  |
+| [Are Human Conversations Special? A Large Language Model Perspective](http://arxiv.org/abs/2403.05045v1) |  |
 | [Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed](http://arxiv.org/abs/2403.04765v1) |  |
 | [Speech Emotion Recognition Via CNN-Transforemr and Multidimensional Attention Mechanism](http://arxiv.org/abs/2403.04743v1) | [**link**](https://github.com/scnu-rislab/cnn-transforemr-and-multidimensional-attention-mechanism) |
 | [Dynamic Cross Attention for Audio-Visual Person Verification](http://arxiv.org/abs/2403.04661v1) |  |
@@ -33,9 +37,6 @@ toc: true
 | [From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction](http://arxiv.org/abs/2403.04369v1) | [**link**](https://github.com/liang-star177/fwgb) |
 | [A mechanism-informed reinforcement learning framework for shape optimization of airfoils](http://arxiv.org/abs/2403.04329v1) |  |
 | [MKF-ADS: A Multi-Knowledge Fused Anomaly Detection System for Automotive](http://arxiv.org/abs/2403.04293v1) |  |
-| [ACC-ViT : Atrous Convolution's Comeback in Vision Transformers](http://arxiv.org/abs/2403.04200v1) |  |
-| [Understanding the PULSAR Effect in Combined Radiotherapy and Immunotherapy through Attention Mechanisms with a Transformer Model](http://arxiv.org/abs/2403.04175v1) |  |
-| [Enhancing Price Prediction in Cryptocurrency Using Transformer Neural Network and Technical Indicators](http://arxiv.org/abs/2403.03606v1) |  |
 
 ## 背景差分
 
