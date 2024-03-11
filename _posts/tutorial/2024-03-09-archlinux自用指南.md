@@ -461,6 +461,8 @@ paru linuxqq
 ```
 {: file='~/.config/qq-flags.conf'}
 
+但是要注意目前wayland下qq的剪贴板无法和其他程序共享
+
 ##### telegram
 
 > 截止2024/03/11 我遇到了telegram客户端的自动夜间模式失效的情况
