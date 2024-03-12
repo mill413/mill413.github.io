@@ -510,7 +510,7 @@ paru r3playx-bin
 {: file='~/.config/electron28-flags.conf'}
 
 > 注意在wayland下全局菜单会失效
-{: .prompt-warn}
+{: .prompt-warning }
 
 #### 编程
 
