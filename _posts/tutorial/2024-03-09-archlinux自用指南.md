@@ -437,6 +437,9 @@ sudo pacman-key --lsign-key "farseerfc@archlinux.org"
 
    取消选择鼠标悬停时显示提示信息
 
+   > 此项设置与图标任务管理器中的`悬停在任务上时显示窗口的小型预览`冲突
+   {: .prompt-warn}
+
 - 搜索
 
    `文件搜索`中`要索引的数据`选择`仅文件名`
@@ -512,6 +515,8 @@ paru r3playx-bin
 ```console
 paru visual-studio-code-bin
 ```
+
+如果要使用全局菜单，请在设置中将`Title Bar Style`改为`native`
 
 ##### Datagrip
 
