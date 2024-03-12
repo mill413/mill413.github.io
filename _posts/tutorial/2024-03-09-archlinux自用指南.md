@@ -431,6 +431,10 @@ sudo pacman-key --lsign-key "farseerfc@archlinux.org"
 
    修改名称和图标
 
+- KWin脚本
+
+   右上角获取新脚本搜索并安装`Truely Maximized`
+
 #### 工作区
 
 - 常规行为
