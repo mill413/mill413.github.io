@@ -485,7 +485,7 @@ paru linuxqq
 > 参考[github的issue](https://github.com/telegramdesktop/tdesktop/issues/27431)
 >
 > 貌似一直都是坏的，就这样吧
-{: .prompt-warn}
+{: .prompt-warning }
 
 ```console
 paru telegram-desktop
