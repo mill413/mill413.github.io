@@ -657,3 +657,17 @@ paru google-chrome
    ```
 
 - 编辑`~/.config/fastfetch/config.json`，删除不需要的项
+
+#### Steam
+
+1. 确保已安装32位显卡驱动
+
+2. 安装steam
+
+   ```console
+   paru steam
+   ```
+
+3. 若出现缩放问题，请在KDE设置`显示与监视器`选中`由系统进行缩放`
+
+4. steam设置里需启用参与客户端测试以正常使用输入法
