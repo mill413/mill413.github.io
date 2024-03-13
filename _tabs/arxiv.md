@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/03/12 08:38:00
+> 更新于 2024/03/13 08:38:42
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
-| [MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models](http://arxiv.org/abs/2403.05160v1) |  |
-| [Multimodal Infusion Tuning for Large Models](http://arxiv.org/abs/2403.05060v1) |  |
-| [Are Human Conversations Special? A Large Language Model Perspective](http://arxiv.org/abs/2403.05045v1) |  |
-| [Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed](http://arxiv.org/abs/2403.04765v1) |  |
-| [Speech Emotion Recognition Via CNN-Transforemr and Multidimensional Attention Mechanism](http://arxiv.org/abs/2403.04743v1) | [**link**](https://github.com/scnu-rislab/cnn-transforemr-and-multidimensional-attention-mechanism) |
-| [Dynamic Cross Attention for Audio-Visual Person Verification](http://arxiv.org/abs/2403.04661v1) |  |
-| [T-TAME: Trainable Attention Mechanism for Explaining Convolutional Networks and Vision Transformers](http://arxiv.org/abs/2403.04523v1) |  |
-| [From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction](http://arxiv.org/abs/2403.04369v1) | [**link**](https://github.com/liang-star177/fwgb) |
-| [A mechanism-informed reinforcement learning framework for shape optimization of airfoils](http://arxiv.org/abs/2403.04329v1) |  |
-| [MKF-ADS: A Multi-Knowledge Fused Anomaly Detection System for Automotive](http://arxiv.org/abs/2403.04293v1) |  |
+| [Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling](http://arxiv.org/abs/2403.06978v1) | [**link**](https://github.com/wgcban/apt) |
+| [Explainable Transformer Prototypes for Medical Diagnoses](http://arxiv.org/abs/2403.06961v1) | [**link**](https://github.com/nubagcilab/r2r_proto) |
+| [MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning](http://arxiv.org/abs/2403.06914v1) |  |
+| [FocusCLIP: Multimodal Subject-Level Guidance for Zero-Shot Transfer in Human-Centric Tasks](http://arxiv.org/abs/2403.06904v1) |  |
+| [MetaSplit: Meta-Split Network for Limited-Stock Product Recommendation](http://arxiv.org/abs/2403.06747v2) |  |
+| [Real-Time Multimodal Cognitive Assistant for Emergency Medical Services](http://arxiv.org/abs/2403.06734v1) |  |
+| [Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data](http://arxiv.org/abs/2403.06687v1) |  |
+| [FOAA: Flattened Outer Arithmetic Attention For Multimodal Tumor Classification](http://arxiv.org/abs/2403.06339v1) | [**link**](https://github.com/omniaalwazzan/foaa) |
+| [Frequency Attention for Knowledge Distillation](http://arxiv.org/abs/2403.05894v1) | [**link**](https://github.com/cuong-pv/FAM-KD) |
+| [TrafficGPT: Breaking the Token Barrier for Efficient Long Traffic Analysis and Generation](http://arxiv.org/abs/2403.05822v1) |  |
 
 ## 背景差分
 
@@ -51,4 +51,4 @@ toc: true
 | [Traffic Cameras to detect inland waterway barge traffic: An Application of machine learning](http://arxiv.org/abs/2401.03070v1) |  |
 | [The stellar mass function of quiescent galaxies in 2 < z < 2.5 protoclusters](http://arxiv.org/abs/2312.12380v1) |  |
 | [Solar flare catalog from 3 years of Chandrayaan-2 XSM observations](http://arxiv.org/abs/2312.09191v2) | [**link**](https://github.com/devansh-dvj/suryadrishti) |
-| [Are Solar Microflares more efficient in accelerating electrons when rooted near a Sunspot?](http://arxiv.org/abs/2312.06856v1) |  |
+| [Efficiency of solar microflares in accelerating electrons when rooted in a sunspot](http://arxiv.org/abs/2312.06856v2) |  |
