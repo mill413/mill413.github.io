@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/03/13 08:38:42
+> 更新于 2024/03/14 08:37:43
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis](http://arxiv.org/abs/2403.07719v1) | [**link**](https://github.com/wonderlandxd/wikg) |
+| [Learning Correction Errors via Frequency-Self Attention for Blind Image Super-Resolution](http://arxiv.org/abs/2403.07390v1) |  |
+| [Gabor-guided transformer for single image deraining](http://arxiv.org/abs/2403.07380v1) |  |
+| [Towards Zero-shot Human-Object Interaction Detection via Vision-Language Integration](http://arxiv.org/abs/2403.07246v1) |  |
 | [Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling](http://arxiv.org/abs/2403.06978v1) | [**link**](https://github.com/wgcban/apt) |
 | [Explainable Transformer Prototypes for Medical Diagnoses](http://arxiv.org/abs/2403.06961v1) | [**link**](https://github.com/nubagcilab/r2r_proto) |
-| [MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning](http://arxiv.org/abs/2403.06914v1) |  |
+| [MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning](http://arxiv.org/abs/2403.06914v2) |  |
 | [FocusCLIP: Multimodal Subject-Level Guidance for Zero-Shot Transfer in Human-Centric Tasks](http://arxiv.org/abs/2403.06904v1) |  |
-| [MetaSplit: Meta-Split Network for Limited-Stock Product Recommendation](http://arxiv.org/abs/2403.06747v2) |  |
+| [MetaSplit: Meta-Split Network for Limited-Stock Product Recommendation](http://arxiv.org/abs/2403.06747v3) |  |
 | [Real-Time Multimodal Cognitive Assistant for Emergency Medical Services](http://arxiv.org/abs/2403.06734v1) |  |
-| [Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data](http://arxiv.org/abs/2403.06687v1) |  |
-| [FOAA: Flattened Outer Arithmetic Attention For Multimodal Tumor Classification](http://arxiv.org/abs/2403.06339v1) | [**link**](https://github.com/omniaalwazzan/foaa) |
-| [Frequency Attention for Knowledge Distillation](http://arxiv.org/abs/2403.05894v1) | [**link**](https://github.com/cuong-pv/FAM-KD) |
-| [TrafficGPT: Breaking the Token Barrier for Efficient Long Traffic Analysis and Generation](http://arxiv.org/abs/2403.05822v1) |  |
 
 ## 背景差分
 
