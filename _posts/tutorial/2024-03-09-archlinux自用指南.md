@@ -565,6 +565,10 @@ sudo pacman -S paru
 
 - Kate
 
+- Filelight
+
+- htop
+
 #### 2.3.7 终端使用
 
 - konsole
@@ -700,3 +704,23 @@ sudo pacman -S paru
 ### 3.3 sudo时显示密码
 
 在`/etc/sudoers`文件中写入`Default pwfeedback`
+
+## 4 目前的痛点
+
+- [ ] electron应用在wayland下全局菜单失效
+
+- [ ] VSCode在wayland下任务管理器图标异常
+
+- [ ] linuxqq没有音视频通话、屏幕共享、远程协助功能
+
+- [ ] linuxqq在KDE下截图失效
+
+- [ ] 微信官方没有linux包
+
+- [ ] 网易云音乐没有linux包
+
+- [ ] telegram自动夜间模式失效
+
+- [ ] MS Office无原生linux方案
+
+- [ ] 云原神、云铁道没有适配chrome
