@@ -705,6 +705,18 @@ sudo pacman -S paru
 
 在`/etc/sudoers`文件中写入`Default pwfeedback`
 
+### 3.4 kwallet
+
+如果遇到kwallet请求密码
+
+1. 安装kwalletmanager
+
+   ```console
+   paru kwalletmanager
+   ```
+
+2. 修改密码时留空即可
+
 ## 4 目前的痛点
 
 - [ ] electron应用在wayland下全局菜单失效
