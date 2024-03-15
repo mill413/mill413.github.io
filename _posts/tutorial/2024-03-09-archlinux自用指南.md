@@ -547,6 +547,10 @@ sudo pacman -S paru
   ```
   {: file='~/.config/chrome-flags.conf'}
 
+  chrome地址栏里输入`chrome://flags`，开启以下选项
+
+  ![chrome-flags](flags.png)
+
 #### 2.3.6 工具
 
 - Ark
