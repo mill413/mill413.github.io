@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/03/14 08:37:43
+> 更新于 2024/03/15 08:38:36
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
-| [Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis](http://arxiv.org/abs/2403.07719v1) | [**link**](https://github.com/wonderlandxd/wikg) |
-| [Learning Correction Errors via Frequency-Self Attention for Blind Image Super-Resolution](http://arxiv.org/abs/2403.07390v1) |  |
-| [Gabor-guided transformer for single image deraining](http://arxiv.org/abs/2403.07380v1) |  |
-| [Towards Zero-shot Human-Object Interaction Detection via Vision-Language Integration](http://arxiv.org/abs/2403.07246v1) |  |
-| [Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling](http://arxiv.org/abs/2403.06978v1) | [**link**](https://github.com/wgcban/apt) |
-| [Explainable Transformer Prototypes for Medical Diagnoses](http://arxiv.org/abs/2403.06961v1) | [**link**](https://github.com/nubagcilab/r2r_proto) |
-| [MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning](http://arxiv.org/abs/2403.06914v2) |  |
-| [FocusCLIP: Multimodal Subject-Level Guidance for Zero-Shot Transfer in Human-Centric Tasks](http://arxiv.org/abs/2403.06904v1) |  |
-| [MetaSplit: Meta-Split Network for Limited-Stock Product Recommendation](http://arxiv.org/abs/2403.06747v3) |  |
-| [Real-Time Multimodal Cognitive Assistant for Emergency Medical Services](http://arxiv.org/abs/2403.06734v1) |  |
+| [Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution](http://arxiv.org/abs/2403.08748v1) |  |
+| [OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework](http://arxiv.org/abs/2403.08682v1) |  |
+| [Self-Supervised Learning for Covariance Estimation](http://arxiv.org/abs/2403.08662v1) |  |
+| [ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos](http://arxiv.org/abs/2403.08591v1) |  |
+| [A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product](http://arxiv.org/abs/2403.08511v1) |  |
+| [Improved YOLOv5 Based on Attention Mechanism and FasterNet for Foreign Object Detection on Railway and Airway tracks](http://arxiv.org/abs/2403.08499v1) |  |
+| [Activating Wider Areas in Image Super-Resolution](http://arxiv.org/abs/2403.08330v1) |  |
+| [Skipformer: A Skip-and-Recover Strategy for Efficient Speech Recognition](http://arxiv.org/abs/2403.08258v1) |  |
+| [Mechanics of Next Token Prediction with Self-Attention](http://arxiv.org/abs/2403.08081v1) |  |
+| [Gujarati-English Code-Switching Speech Recognition using ensemble prediction of spoken language](http://arxiv.org/abs/2403.08011v1) |  |
 
 ## 背景差分
 
