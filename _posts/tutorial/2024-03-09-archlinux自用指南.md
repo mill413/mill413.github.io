@@ -557,7 +557,7 @@ sudo pacman -S paru
 
   ![chrome-flags](flags.png)
 
-  目前遇到了Chrome在wayland下拖入文件卡死的问题
+  目前遇到了Chrome在wayland下拖入文件后鼠标失效的问题
 
 #### 2.3.6 工具
 
