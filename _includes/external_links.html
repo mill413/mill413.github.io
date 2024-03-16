@@ -1,0 +1,14 @@
+{% if site.data.external_links.size > 0 %}
+    <section id="external-links">
+        <h2 class="panel-heading">{{- site.data.locales[include.lang].panel.external_links -}}</h2>
+        <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
+            {% for external_link in site.data.external_links %}
+            <li class="text-truncate lh-lg">
+                <a href="{{ external_link.link }}" target="_blank">
+                    {{ external_link.name }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+{% endif %}

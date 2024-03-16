@@ -228,6 +228,28 @@ i {
   }
 }
 
+#external-links {
+  ul {
+    padding-left: 0;
+  }
+
+  li {
+    height: 1.8rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    list-style: none;
+  }
+
+  a {
+    @extend %no-bottom-border;
+
+    color: #6c757d;
+  } 
+}
+
 .footnotes > ol {
   padding-left: 2rem;
   margin-top: 0.5rem;
