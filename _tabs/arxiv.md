@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/03/15 08:38:36
+> 更新于 2024/03/16 08:37:02
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models](http://arxiv.org/abs/2403.09471v1) |  |
+| [M&M: Multimodal-Multitask Model Integrating Audiovisual Cues in Cognitive Load Assessment](http://arxiv.org/abs/2403.09451v1) |  |
+| [MCformer: Multivariate Time Series Forecasting with Mixed-Channels Transformer](http://arxiv.org/abs/2403.09223v1) |  |
+| [SAM-Lightening: A Lightweight Segment Anything Model with Dilated Flash Attention to Achieve 30 times Acceleration](http://arxiv.org/abs/2403.09195v1) |  |
+| [SHAN: Object-Level Privacy Detection via Inference on Scene Heterogeneous Graph](http://arxiv.org/abs/2403.09172v1) |  |
+| [CardioCaps: Attention-based Capsule Network for Class-Imbalanced Echocardiogram Classification](http://arxiv.org/abs/2403.09108v1) | [**link**](https://github.com/jihyeonseong/cardiocaps) |
+| [Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs](http://arxiv.org/abs/2403.09039v1) |  |
 | [Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution](http://arxiv.org/abs/2403.08748v1) |  |
 | [OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework](http://arxiv.org/abs/2403.08682v1) |  |
-| [Self-Supervised Learning for Covariance Estimation](http://arxiv.org/abs/2403.08662v1) |  |
-| [ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos](http://arxiv.org/abs/2403.08591v1) |  |
-| [A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product](http://arxiv.org/abs/2403.08511v1) |  |
-| [Improved YOLOv5 Based on Attention Mechanism and FasterNet for Foreign Object Detection on Railway and Airway tracks](http://arxiv.org/abs/2403.08499v1) |  |
-| [Activating Wider Areas in Image Super-Resolution](http://arxiv.org/abs/2403.08330v1) |  |
-| [Skipformer: A Skip-and-Recover Strategy for Efficient Speech Recognition](http://arxiv.org/abs/2403.08258v1) |  |
-| [Mechanics of Next Token Prediction with Self-Attention](http://arxiv.org/abs/2403.08081v1) |  |
-| [Gujarati-English Code-Switching Speech Recognition using ensemble prediction of spoken language](http://arxiv.org/abs/2403.08011v1) |  |
+| [Bifurcated Attention for Single-Context Large-Batch Sampling](http://arxiv.org/abs/2403.08845v1) |  |
 
 ## 背景差分
 
