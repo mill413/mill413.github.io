@@ -491,6 +491,12 @@ sudo pacman -S paru
   paru telegram-desktop
   ```
 
+- 微信
+
+  ```console
+  paru wechat-universal-bwrap
+  ```
+
 #### 2.3.3 音乐
 
 - r3playx
