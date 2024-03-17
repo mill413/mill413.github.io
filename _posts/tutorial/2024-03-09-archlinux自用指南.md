@@ -528,6 +528,9 @@ sudo pacman -S paru
 
   如果要使用全局菜单，请在设置中将`Title Bar Style`改为`native`
 
+  > Title Bar Style修改为native后，如果此时主侧栏在右侧，点击右下角的管理按钮，弹出菜单不会在正确的位置
+  {: .prompt-warning}
+
 - Datagrip
 
   ```console
