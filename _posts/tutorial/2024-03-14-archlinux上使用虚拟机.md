@@ -14,7 +14,7 @@ img_path: "/assets/img/posts/"
 3. 安装qemu及virt-manager
 
     ```console
-    paru qemu-desktop
+    paru qemu-full
     paru virt-manager
     ```
 
@@ -28,4 +28,10 @@ img_path: "/assets/img/posts/"
 
     ```console
     systemctl enable --now libvirtd
+    ```
+
+6. 开启虚拟网络
+
+    ```console
+    sudo virsh net-autostart default
     ```

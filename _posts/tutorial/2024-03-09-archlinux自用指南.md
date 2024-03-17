@@ -691,7 +691,7 @@ sudo pacman -S paru
 
 4. steam设置里需启用参与客户端测试以正常使用输入法
 
-## 3 其他设置
+## 3 其他设置  
 
 ### 3.1 GRUB美化
 
@@ -718,7 +718,7 @@ sudo pacman -S paru
 
 ### 3.3 sudo时显示密码
 
-在`/etc/sudoers`文件中写入`Default pwfeedback`
+在`/etc/sudoers`文件中写入`Defaults pwfeedback`
 
 ### 3.4 kwallet
 
