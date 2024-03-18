@@ -628,54 +628,54 @@ sudo pacman -S paru
 
 - oh-my-zsh
 
-- 安装`oh-my-zsh`
+  - 安装`oh-my-zsh`
 
-  ```console
-  paru oh-my-zsh-git
-  ```
+     ```console
+     paru oh-my-zsh-git
+     ```
 
-   安装完成后生成`.zshrc`文件
+    安装完成后生成`.zshrc`文件
 
-   ```console
-   cp /usr/share/oh-my-zsh/zshrc ~/.zshrc
-   ```
+    ```console
+    cp /usr/share/oh-my-zsh/zshrc ~/.zshrc
+     ```
 
-- 安装`zsh-autosuggestions`插件
+  - 安装`zsh-autosuggestions`插件
 
-  ```console
-  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-  ```
+    ```console
+    git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+    ```
 
-- 安装`fast-syntax-highlighting`插件
+  - 安装`fast-syntax-highlighting`插件
 
-  ```console
-  git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
-  ```
+    ```console
+    git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
+    ```
 
-- 编辑`~/.zshrc`
+  - 编辑`~/.zshrc`
 
-  找到plugins行
+    找到plugins行
 
-  ```plaintext
-  plugins=(git extract zsh-autosuggestions fast-syntax-highlighting)
-  ```
-  {: file='~/.zshrc'}
+    ```plaintext
+    plugins=(git extract zsh-autosuggestions fast-syntax-highlighting)
+    ```
+    {: file='~/.zshrc'}
 
 - fastfetch
 
-- 安装`fastfetch`
+  - 安装`fastfetch`
 
-  ```console
-  paru fastfetch
-  ```
+    ```console
+    paru fastfetch
+    ```
 
-- 生成配置文件
+  - 生成配置文件
 
-  ```console
-  fastfetch --gen-config
-  ```
+    ```console
+    fastfetch --gen-config
+    ```
 
-- 编辑`~/.config/fastfetch/config.json`，删除不需要的项
+  - 编辑`~/.config/fastfetch/config.json`，删除不需要的项
 
 #### 2.3.8 Steam
 
