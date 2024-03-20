@@ -5,13 +5,14 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/03/17 08:41:34
+> 更新于 2024/03/20 08:38:06
 {: .prompt-info}
 
 ## 小目标
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
 | [FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion](http://arxiv.org/abs/2403.03463v1) |  |
 | [YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5](http://arxiv.org/abs/2402.14309v1) |  |
 | [YOLO-Ant: A Lightweight Detector via Depthwise Separable Convolutional and Large Kernel Design for Antenna Interference Source Detection](http://arxiv.org/abs/2402.12641v1) | [**link**](https://github.com/scnu-rislab/yolo-ant) |
@@ -21,22 +22,21 @@ toc: true
 | [Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning](http://arxiv.org/abs/2401.04105v1) |  |
 | [Small Bird Detection using YOLOv7 with Test-Time Augmentation](http://arxiv.org/abs/2401.01018v1) |  |
 | [Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline](http://arxiv.org/abs/2312.02528v2) | [**link**](https://github.com/xiaoqi-zhao-dlut/x-ray-pbd) |
-| [Deep Learning-Based Object Detection in Maritime Unmanned Aerial Vehicle Imagery: Review and Experimental Comparisons](http://arxiv.org/abs/2311.07955v2) |  |
 
 ## 注意力机制
 
 | 论文 | 代码链接 |
 | --- | --- |
-| [MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models](http://arxiv.org/abs/2403.09471v1) |  |
-| [M&M: Multimodal-Multitask Model Integrating Audiovisual Cues in Cognitive Load Assessment](http://arxiv.org/abs/2403.09451v1) |  |
-| [MCformer: Multivariate Time Series Forecasting with Mixed-Channels Transformer](http://arxiv.org/abs/2403.09223v1) |  |
-| [SAM-Lightening: A Lightweight Segment Anything Model with Dilated Flash Attention to Achieve 30 times Acceleration](http://arxiv.org/abs/2403.09195v1) |  |
-| [SHAN: Object-Level Privacy Detection via Inference on Scene Heterogeneous Graph](http://arxiv.org/abs/2403.09172v1) |  |
-| [CardioCaps: Attention-based Capsule Network for Class-Imbalanced Echocardiogram Classification](http://arxiv.org/abs/2403.09108v1) | [**link**](https://github.com/jihyeonseong/cardiocaps) |
-| [Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs](http://arxiv.org/abs/2403.09039v1) |  |
-| [Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution](http://arxiv.org/abs/2403.08748v1) |  |
-| [OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework](http://arxiv.org/abs/2403.08682v1) |  |
-| [Bifurcated Attention for Single-Context Large-Batch Sampling](http://arxiv.org/abs/2403.08845v1) |  |
+| [LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models](http://arxiv.org/abs/2403.11627v1) | [**link**](https://github.com/young98cn/lora_composer) |
+| [Learning Unified Reference Representation for Unsupervised Multi-class Anomaly Detection](http://arxiv.org/abs/2403.11561v1) |  |
+| [Covid-19 detection from CT scans using EfficientNet and Attention mechanism](http://arxiv.org/abs/2403.11505v1) |  |
+| [CasSR: Activating Image Power for Real-World Image Super-Resolution](http://arxiv.org/abs/2403.11451v1) |  |
+| [Unifying Feature and Cost Aggregation with Transformers for Semantic and Visual Correspondence](http://arxiv.org/abs/2403.11120v1) |  |
+| [Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention](http://arxiv.org/abs/2403.11052v1) |  |
+| [EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration](http://arxiv.org/abs/2403.11026v1) |  |
+| [Entity Alignment with Unlabeled Dangling Cases](http://arxiv.org/abs/2403.10978v1) |  |
+| [COVID-CT-H-UNet: a novel COVID-19 CT segmentation network based on attention mechanism and Bi-category Hybrid loss](http://arxiv.org/abs/2403.10880v1) |  |
+| [Twin Transformer using Gated Dynamic Learnable Attention mechanism for Fault Detection and Diagnosis in the Tennessee Eastman Process](http://arxiv.org/abs/2403.10842v1) |  |
 
 ## 背景差分
 
