@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/03/20 08:38:06
+> 更新于 2024/03/21 08:39:50
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](http://arxiv.org/abs/2403.12962v1) | [**link**](https://github.com/williamyang1991/fresco) |
+| [Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers](http://arxiv.org/abs/2403.12943v1) |  |
+| [IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model](http://arxiv.org/abs/2403.12682v1) |  |
+| [TT-BLIP: Enhancing Fake News Detection Using BLIP and Tri-Transformer](http://arxiv.org/abs/2403.12481v1) |  |
+| [Deep Learning-Based CSI Feedback for RIS-Aided Massive MIMO Systems with Time Correlation](http://arxiv.org/abs/2403.12453v1) |  |
+| [Fusion Transformer with Object Mask Guidance for Image Forgery Analysis](http://arxiv.org/abs/2403.12229v1) |  |
+| [From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?](http://arxiv.org/abs/2403.11894v1) |  |
+| [TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions](http://arxiv.org/abs/2403.11818v1) | [**link**](https://github.com/hotfinda/tcnet) |
 | [LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models](http://arxiv.org/abs/2403.11627v1) | [**link**](https://github.com/young98cn/lora_composer) |
 | [Learning Unified Reference Representation for Unsupervised Multi-class Anomaly Detection](http://arxiv.org/abs/2403.11561v1) |  |
-| [Covid-19 detection from CT scans using EfficientNet and Attention mechanism](http://arxiv.org/abs/2403.11505v1) |  |
-| [CasSR: Activating Image Power for Real-World Image Super-Resolution](http://arxiv.org/abs/2403.11451v1) |  |
-| [Unifying Feature and Cost Aggregation with Transformers for Semantic and Visual Correspondence](http://arxiv.org/abs/2403.11120v1) |  |
-| [Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention](http://arxiv.org/abs/2403.11052v1) |  |
-| [EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration](http://arxiv.org/abs/2403.11026v1) |  |
-| [Entity Alignment with Unlabeled Dangling Cases](http://arxiv.org/abs/2403.10978v1) |  |
-| [COVID-CT-H-UNet: a novel COVID-19 CT segmentation network based on attention mechanism and Bi-category Hybrid loss](http://arxiv.org/abs/2403.10880v1) |  |
-| [Twin Transformer using Gated Dynamic Learnable Attention mechanism for Fault Detection and Diagnosis in the Tennessee Eastman Process](http://arxiv.org/abs/2403.10842v1) |  |
 
 ## 背景差分
 
