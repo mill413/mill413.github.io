@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/03/21 08:39:50
+> 更新于 2024/03/22 08:38:11
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [Recursive Cross-Modal Attention for Multimodal Fusion in Dimensional Emotion Recognition](http://arxiv.org/abs/2403.13659v1) |  |
+| [VL-Mamba: Exploring State Space Models for Multimodal Learning](http://arxiv.org/abs/2403.13600v1) |  |
+| [Compress3D: a Compressed Latent Space for 3D Generation from a Single Image](http://arxiv.org/abs/2403.13524v1) |  |
+| [Divide-Conquer Transformer Learning for Predicting Electric Vehicle Charging Events Using Smart Meter Data](http://arxiv.org/abs/2403.13246v1) |  |
+| [Improved EATFormer: A Vision Transformer for Medical Image Classification](http://arxiv.org/abs/2403.13167v1) |  |
 | [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](http://arxiv.org/abs/2403.12962v1) | [**link**](https://github.com/williamyang1991/fresco) |
 | [Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers](http://arxiv.org/abs/2403.12943v1) |  |
+| [Emotic Masked Autoencoder with Attention Fusion for Facial Expression Recognition](http://arxiv.org/abs/2403.13039v1) |  |
 | [IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model](http://arxiv.org/abs/2403.12682v1) |  |
 | [TT-BLIP: Enhancing Fake News Detection Using BLIP and Tri-Transformer](http://arxiv.org/abs/2403.12481v1) |  |
-| [Deep Learning-Based CSI Feedback for RIS-Aided Massive MIMO Systems with Time Correlation](http://arxiv.org/abs/2403.12453v1) |  |
-| [Fusion Transformer with Object Mask Guidance for Image Forgery Analysis](http://arxiv.org/abs/2403.12229v1) |  |
-| [From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?](http://arxiv.org/abs/2403.11894v1) |  |
-| [TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions](http://arxiv.org/abs/2403.11818v1) | [**link**](https://github.com/hotfinda/tcnet) |
-| [LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models](http://arxiv.org/abs/2403.11627v1) | [**link**](https://github.com/young98cn/lora_composer) |
-| [Learning Unified Reference Representation for Unsupervised Multi-class Anomaly Detection](http://arxiv.org/abs/2403.11561v1) |  |
 
 ## 背景差分
 
