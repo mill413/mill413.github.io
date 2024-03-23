@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/03/22 08:38:11
+> 更新于 2024/03/23 08:37:30
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing](http://arxiv.org/abs/2403.14487v1) |  |
+| [HyperGALE: ASD Classification via Hypergraph Gated Attention with Learnable Hyperedges](http://arxiv.org/abs/2403.14484v1) | [**link**](https://github.com/mehular0ra/hypergale) |
+| [CathFlow: Self-Supervised Segmentation of Catheters in Interventional Ultrasound Using Optical Flow and Transformers](http://arxiv.org/abs/2403.14465v1) |  |
+| [gTBLS: Generating Tables from Text by Conditional Question Answering](http://arxiv.org/abs/2403.14457v1) |  |
+| [RoDLA: Benchmarking the Robustness of Document Layout Analysis Models](http://arxiv.org/abs/2403.14442v1) |  |
+| [SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks](http://arxiv.org/abs/2403.14302v1) |  |
+| [Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection](http://arxiv.org/abs/2403.14270v1) |  |
+| [OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation](http://arxiv.org/abs/2403.14183v1) |  |
+| [Spatial-Temporal Graph Representation Learning for Tactical Networks Future State Prediction](http://arxiv.org/abs/2403.13872v1) |  |
 | [Recursive Cross-Modal Attention for Multimodal Fusion in Dimensional Emotion Recognition](http://arxiv.org/abs/2403.13659v1) |  |
-| [VL-Mamba: Exploring State Space Models for Multimodal Learning](http://arxiv.org/abs/2403.13600v1) |  |
-| [Compress3D: a Compressed Latent Space for 3D Generation from a Single Image](http://arxiv.org/abs/2403.13524v1) |  |
-| [Divide-Conquer Transformer Learning for Predicting Electric Vehicle Charging Events Using Smart Meter Data](http://arxiv.org/abs/2403.13246v1) |  |
-| [Improved EATFormer: A Vision Transformer for Medical Image Classification](http://arxiv.org/abs/2403.13167v1) |  |
-| [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](http://arxiv.org/abs/2403.12962v1) | [**link**](https://github.com/williamyang1991/fresco) |
-| [Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers](http://arxiv.org/abs/2403.12943v1) |  |
-| [Emotic Masked Autoencoder with Attention Fusion for Facial Expression Recognition](http://arxiv.org/abs/2403.13039v1) |  |
-| [IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model](http://arxiv.org/abs/2403.12682v1) |  |
-| [TT-BLIP: Enhancing Fake News Detection Using BLIP and Tri-Transformer](http://arxiv.org/abs/2403.12481v1) |  |
 
 ## 背景差分
 
