@@ -689,6 +689,9 @@ sudo pacman -S paru
 
 3. 若出现缩放问题，请在KDE设置`显示与监视器`选中`由系统进行缩放`
 
+   > 由于该设置与JetBrains系软件冲突，更建议在.desktop文件里添加参数`-forcedesktopscaling 1.5`
+   {: .prompt-info}
+
 4. steam设置里需启用参与客户端测试以正常使用输入法
 
 ## 3 其他设置  
