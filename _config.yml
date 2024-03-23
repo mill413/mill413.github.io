@@ -140,6 +140,11 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+# External links
+external_links:
+  - name: This blog's repo  
+    link: https://github.com/mill413/mill413.github.io
+
 jekyll_compose:
   default_front_matter:
     posts:
