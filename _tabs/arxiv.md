@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/03/25 08:40:02
+> 更新于 2024/03/26 08:38:37
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [Allspark: Workload Orchestration for Visual Transformers on Processing In-Memory Systems](http://arxiv.org/abs/2403.15069v1) |  |
+| [MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration](http://arxiv.org/abs/2403.15059v1) |  |
+| [An Integrated Neighborhood and Scale Information Network for Open-Pit Mine Change Detection in High-Resolution Remote Sensing Images](http://arxiv.org/abs/2403.15032v1) |  |
+| [Attention-Driven Reasoning: Unlocking the Potential of Large Language Models](http://arxiv.org/abs/2403.14932v1) |  |
+| [Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance](http://arxiv.org/abs/2403.14781v1) |  |
+| [StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text](http://arxiv.org/abs/2403.14773v1) |  |
+| [Learning with SASQuaTCh: a Novel Variational Quantum Transformer Architecture with Kernel-Based Self-Attention](http://arxiv.org/abs/2403.14753v1) |  |
 | [DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing](http://arxiv.org/abs/2403.14487v1) |  |
 | [HyperGALE: ASD Classification via Hypergraph Gated Attention with Learnable Hyperedges](http://arxiv.org/abs/2403.14484v1) | [**link**](https://github.com/mehular0ra/hypergale) |
 | [CathFlow: Self-Supervised Segmentation of Catheters in Interventional Ultrasound Using Optical Flow and Transformers](http://arxiv.org/abs/2403.14465v1) |  |
-| [gTBLS: Generating Tables from Text by Conditional Question Answering](http://arxiv.org/abs/2403.14457v1) |  |
-| [RoDLA: Benchmarking the Robustness of Document Layout Analysis Models](http://arxiv.org/abs/2403.14442v1) |  |
-| [SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks](http://arxiv.org/abs/2403.14302v1) | [**link**](https://github.com/xyshi2000/spikingresformer) |
-| [Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection](http://arxiv.org/abs/2403.14270v1) |  |
-| [OTSeg: Multi-prompt Sinkhorn Attention for Zero-Shot Semantic Segmentation](http://arxiv.org/abs/2403.14183v1) |  |
-| [Spatial-Temporal Graph Representation Learning for Tactical Networks Future State Prediction](http://arxiv.org/abs/2403.13872v1) |  |
-| [Recursive Cross-Modal Attention for Multimodal Fusion in Dimensional Emotion Recognition](http://arxiv.org/abs/2403.13659v1) |  |
 
 ## 背景差分
 
