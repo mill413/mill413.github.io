@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/03/26 08:38:37
+> 更新于 2024/03/27 08:38:41
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
-| [Allspark: Workload Orchestration for Visual Transformers on Processing In-Memory Systems](http://arxiv.org/abs/2403.15069v1) |  |
-| [MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration](http://arxiv.org/abs/2403.15059v1) |  |
-| [An Integrated Neighborhood and Scale Information Network for Open-Pit Mine Change Detection in High-Resolution Remote Sensing Images](http://arxiv.org/abs/2403.15032v1) |  |
-| [Attention-Driven Reasoning: Unlocking the Potential of Large Language Models](http://arxiv.org/abs/2403.14932v1) |  |
-| [Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance](http://arxiv.org/abs/2403.14781v1) |  |
-| [StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text](http://arxiv.org/abs/2403.14773v1) |  |
-| [Learning with SASQuaTCh: a Novel Variational Quantum Transformer Architecture with Kernel-Based Self-Attention](http://arxiv.org/abs/2403.14753v1) |  |
-| [DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing](http://arxiv.org/abs/2403.14487v1) |  |
-| [HyperGALE: ASD Classification via Hypergraph Gated Attention with Learnable Hyperedges](http://arxiv.org/abs/2403.14484v1) | [**link**](https://github.com/mehular0ra/hypergale) |
-| [CathFlow: Self-Supervised Segmentation of Catheters in Interventional Ultrasound Using Optical Flow and Transformers](http://arxiv.org/abs/2403.14465v1) |  |
+| [QKFormer: Hierarchical Spiking Transformer using Q-K Attention](http://arxiv.org/abs/2403.16552v1) | [**link**](https://github.com/zhouchenlin2096/qkformer) |
+| [VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting](http://arxiv.org/abs/2403.16536v2) | [**link**](https://github.com/yyyujintang/vmrnn-pytorch) |
+| [RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection](http://arxiv.org/abs/2403.16440v1) | [**link**](https://github.com/vdigpku/rcbevdet) |
+| [3D-EffiViTCaps: 3D Efficient Vision Transformer with Capsule for Medical Image Segmentation](http://arxiv.org/abs/2403.16350v1) | [**link**](https://github.com/hidneuron/3d-effivitcaps) |
+| [Emotion Recognition from the perspective of Activity Recognition](http://arxiv.org/abs/2403.16263v1) |  |
+| [CFAT: Unleashing TriangularWindows for Image Super-resolution](http://arxiv.org/abs/2403.16143v1) | [**link**](https://github.com/rayabhisek123/cfat) |
+| [AKBR: Learning Adaptive Kernel-based Representations for Graph Classification](http://arxiv.org/abs/2403.16130v1) |  |
+| [EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing](http://arxiv.org/abs/2403.16111v1) |  |
+| [A Transformer approach for Electricity Price Forecasting](http://arxiv.org/abs/2403.16108v1) | [**link**](https://github.com/osllogon/epf_transformers) |
+| [Node Classification via Semantic-Structural Attention-Enhanced Graph Convolutional Networks](http://arxiv.org/abs/2403.16033v1) |  |
 
 ## 背景差分
 
