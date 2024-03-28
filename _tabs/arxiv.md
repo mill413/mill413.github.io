@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/03/27 08:38:41
+> 更新于 2024/03/28 08:38:55
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models](http://arxiv.org/abs/2403.17902v1) |  |
+| [EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention](http://arxiv.org/abs/2403.17729v1) | [**link**](https://github.com/rucaibox/eulerformer) |
+| [Mix-Initiative Response Generation with Dynamic Prefix Tuning](http://arxiv.org/abs/2403.17636v2) |  |
+| [Speaker Distance Estimation in Enclosures from Single-Channel Audio](http://arxiv.org/abs/2403.17514v1) |  |
+| [Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance](http://arxiv.org/abs/2403.17377v1) |  |
+| [Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study](http://arxiv.org/abs/2403.17177v1) |  |
+| [TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models](http://arxiv.org/abs/2403.17005v1) |  |
+| [CipherFormer: Efficient Transformer Private Inference with Low Round Complexity](http://arxiv.org/abs/2403.16860v1) |  |
+| [Enhancing Graph Representation Learning with Attention-Driven Spiking Neural Networks](http://arxiv.org/abs/2403.17040v1) |  |
 | [QKFormer: Hierarchical Spiking Transformer using Q-K Attention](http://arxiv.org/abs/2403.16552v1) | [**link**](https://github.com/zhouchenlin2096/qkformer) |
-| [VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting](http://arxiv.org/abs/2403.16536v2) | [**link**](https://github.com/yyyujintang/vmrnn-pytorch) |
-| [RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection](http://arxiv.org/abs/2403.16440v1) | [**link**](https://github.com/vdigpku/rcbevdet) |
-| [3D-EffiViTCaps: 3D Efficient Vision Transformer with Capsule for Medical Image Segmentation](http://arxiv.org/abs/2403.16350v1) | [**link**](https://github.com/hidneuron/3d-effivitcaps) |
-| [Emotion Recognition from the perspective of Activity Recognition](http://arxiv.org/abs/2403.16263v1) |  |
-| [CFAT: Unleashing TriangularWindows for Image Super-resolution](http://arxiv.org/abs/2403.16143v1) | [**link**](https://github.com/rayabhisek123/cfat) |
-| [AKBR: Learning Adaptive Kernel-based Representations for Graph Classification](http://arxiv.org/abs/2403.16130v1) |  |
-| [EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing](http://arxiv.org/abs/2403.16111v1) |  |
-| [A Transformer approach for Electricity Price Forecasting](http://arxiv.org/abs/2403.16108v1) | [**link**](https://github.com/osllogon/epf_transformers) |
-| [Node Classification via Semantic-Structural Attention-Enhanced Graph Convolutional Networks](http://arxiv.org/abs/2403.16033v1) |  |
 
 ## 背景差分
 
