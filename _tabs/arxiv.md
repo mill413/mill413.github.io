@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/03/28 08:38:55
+> 更新于 2024/03/29 08:38:25
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [Homogeneous Tokenizer Matters: Homogeneous Visual Tokenizer for Remote Sensing Image Understanding](http://arxiv.org/abs/2403.18593v1) | [**link**](https://github.com/geox-lab/hook) |
+| [SGDM: Static-Guided Dynamic Module Make Stronger Visual Models](http://arxiv.org/abs/2403.18282v1) |  |
+| [RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers](http://arxiv.org/abs/2403.18276v1) |  |
+| [Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding](http://arxiv.org/abs/2403.18271v1) | [**link**](https://github.com/cccccczh404/h-sam) |
+| [Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation](http://arxiv.org/abs/2403.18257v1) |  |
+| [A Transformer-Based Framework for Payload Malware Detection and Classification](http://arxiv.org/abs/2403.18223v1) |  |
+| [Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer](http://arxiv.org/abs/2403.18063v1) | [**link**](https://github.com/badripatro/sct) |
 | [Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models](http://arxiv.org/abs/2403.17902v1) |  |
 | [EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention](http://arxiv.org/abs/2403.17729v1) | [**link**](https://github.com/rucaibox/eulerformer) |
 | [Mix-Initiative Response Generation with Dynamic Prefix Tuning](http://arxiv.org/abs/2403.17636v2) |  |
-| [Speaker Distance Estimation in Enclosures from Single-Channel Audio](http://arxiv.org/abs/2403.17514v1) |  |
-| [Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance](http://arxiv.org/abs/2403.17377v1) |  |
-| [Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study](http://arxiv.org/abs/2403.17177v1) |  |
-| [TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models](http://arxiv.org/abs/2403.17005v1) |  |
-| [CipherFormer: Efficient Transformer Private Inference with Low Round Complexity](http://arxiv.org/abs/2403.16860v1) |  |
-| [Enhancing Graph Representation Learning with Attention-Driven Spiking Neural Networks](http://arxiv.org/abs/2403.17040v1) |  |
-| [QKFormer: Hierarchical Spiking Transformer using Q-K Attention](http://arxiv.org/abs/2403.16552v1) | [**link**](https://github.com/zhouchenlin2096/qkformer) |
 
 ## 背景差分
 
