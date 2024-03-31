@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/03/30 08:37:21
+> 更新于 2024/03/31 08:43:19
 {: .prompt-info}
 
 ## 小目标
@@ -19,7 +19,7 @@ toc: true
 | [Vehicle Perception from Satellite](http://arxiv.org/abs/2402.00703v1) | [**link**](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos) |
 | [Robust Tiny Object Detection in Aerial Images amidst Label Noise](http://arxiv.org/abs/2401.08056v1) |  |
 | [Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion](http://arxiv.org/abs/2401.08017v1) |  |
-| [Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning](http://arxiv.org/abs/2401.04105v1) |  |
+| [Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning](http://arxiv.org/abs/2401.04105v1) | [**link**](https://github.com/coolbay/Dr2Net) |
 | [Small Bird Detection using YOLOv7 with Test-Time Augmentation](http://arxiv.org/abs/2401.01018v1) |  |
 | [Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline](http://arxiv.org/abs/2312.02528v2) | [**link**](https://github.com/xiaoqi-zhao-dlut/x-ray-pbd) |
 
