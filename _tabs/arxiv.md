@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/04/01 08:43:12
+> 更新于 2024/04/02 08:40:16
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
-| [Self-Improved Learning for Scalable Neural Combinatorial Optimization](http://arxiv.org/abs/2403.19561v1) |  |
-| [Cross-Attention is Not Always Needed: Dynamic Cross-Attention for Audio-Visual Dimensional Emotion Recognition](http://arxiv.org/abs/2403.19554v1) |  |
-| [Locate, Assign, Refine: Taming Customized Image Inpainting with Text-Subject Guidance](http://arxiv.org/abs/2403.19534v1) |  |
-| [Topological Cycle Graph Attention Network for Brain Functional Connectivity](http://arxiv.org/abs/2403.19149v1) |  |
-| [MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation](http://arxiv.org/abs/2403.19144v1) |  |
-| [GraphAD: Interaction Scene Graph for End-to-end Autonomous Driving](http://arxiv.org/abs/2403.19098v1) | [**link**](https://github.com/zhangyp15/graphad) |
-| [Homogeneous Tokenizer Matters: Homogeneous Visual Tokenizer for Remote Sensing Image Understanding](http://arxiv.org/abs/2403.18593v1) | [**link**](https://github.com/geox-lab/hook) |
-| [SGDM: Static-Guided Dynamic Module Make Stronger Visual Models](http://arxiv.org/abs/2403.18282v1) |  |
-| [RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers](http://arxiv.org/abs/2403.18276v1) |  |
-| [Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding](http://arxiv.org/abs/2403.18271v1) | [**link**](https://github.com/cccccczh404/h-sam) |
+| [Sparse multimodal fusion with modal channel attention](http://arxiv.org/abs/2403.20280v1) |  |
+| [MCNet: A crowd denstity estimation network based on integrating multiscale attention module](http://arxiv.org/abs/2403.20173v1) |  |
+| [Sound event localization and classification using WASN in Outdoor Environment](http://arxiv.org/abs/2403.20130v1) |  |
+| [FSMR: A Feature Swapping Multi-modal Reasoning Approach with Joint Textual and Visual Clues](http://arxiv.org/abs/2403.20026v1) |  |
+| [SLFNet: Generating Semantic Logic Forms from Natural Language Using Semantic Probability Graphs](http://arxiv.org/abs/2403.19936v1) |  |
+| [DiJiang: Efficient Large Language Models through Compact Kernelization](http://arxiv.org/abs/2403.19928v1) |  |
+| [Video-Based Human Pose Regression via Decoupled Space-Time Aggregation](http://arxiv.org/abs/2403.19926v1) | [**link**](https://github.com/zgspose/dsta) |
+| [Enhancing Efficiency in Vision Transformer Networks: Design Techniques and Insights](http://arxiv.org/abs/2403.19882v1) |  |
+| [AlloyBERT: Alloy Property Prediction with Large Language Models](http://arxiv.org/abs/2403.19783v1) |  |
+| [CLoRA: A Contrastive Approach to Compose Multiple LoRA Models](http://arxiv.org/abs/2403.19776v1) |  |
 
 ## 背景差分
 
