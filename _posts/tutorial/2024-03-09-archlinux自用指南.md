@@ -476,7 +476,7 @@ sudo pacman -S paru
   ```
   {: file='~/.config/qq-flags.conf'}
 
-   但是要注意目前wayland下qq的剪贴板无法和其他程序共享
+   但是要注意目前wayland下qq点击截屏会闪退，且不论是否跑在Wayland下均无法拖拽文件
 
 - telegram
 
@@ -494,7 +494,7 @@ sudo pacman -S paru
 - 微信
 
   ```console
-  paru wechat-universal-bwrap
+  paru wechat-uos-bwrap
   ```
 
 #### 2.3.3 音乐
@@ -516,7 +516,7 @@ sudo pacman -S paru
   {: file='~/.config/electron28-flags.conf'}
 
   > 注意在wayland下全局菜单会失效
-{: .prompt-warning }
+   {: .prompt-warning }
 
 #### 2.3.4 编程
 
@@ -538,7 +538,7 @@ sudo pacman -S paru
   paru datagrip-jre
   ```
 
-  后者是patche
+  后者是patch
 
 #### 2.3.5 浏览器
 
@@ -556,11 +556,11 @@ sudo pacman -S paru
   ```
   {: file='~/.config/chrome-flags.conf'}
 
-  chrome地址栏里输入`chrome://flags`，开启以下选项
+  或chrome地址栏里输入`chrome://flags`，开启以下选项
 
   ![chrome-flags](flags.png)
 
-  目前遇到了Chrome在wayland下拖入文件后鼠标失效的问题
+  目前遇到了Chrome在Wayland下拖入文件后鼠标失效以及右键菜单位置错误的问题
 
 #### 2.3.6 工具
 
@@ -743,15 +743,19 @@ sudo pacman -S paru
 
 ## 4 目前的痛点
 
-- [ ] electron应用在wayland下全局菜单失效
+- [ ] electron应用在Wayland下全局菜单失效
 
-- [ ] VSCode在wayland下任务管理器图标异常
+- [ ] chromium系在Wayland下`drag and drop`失效以及右键菜单位置错误
+
+- [ ] VSCode在Wayland下任务管理器图标异常
+
+- [ ] VSCode将`Title Bar Style`修改为`native`后，弹出菜单位置错误
 
 - [ ] linuxqq没有音视频通话、屏幕共享、远程协助功能
 
 - [ ] linuxqq在KDE下截图失效
 
-- [ ] 微信官方没有linux包
+- [x] 微信官方没有linux包
 
 - [ ] 网易云音乐没有linux包
 
