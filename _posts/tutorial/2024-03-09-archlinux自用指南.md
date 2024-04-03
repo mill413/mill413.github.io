@@ -562,6 +562,12 @@ sudo pacman -S paru
 
   目前遇到了Chrome在Wayland下拖入文件后鼠标失效以及右键菜单位置错误的问题
 
+- FireFox
+
+  ```console
+  paru firefox
+  ```
+
 #### 2.3.6 工具
 
 - Ark
