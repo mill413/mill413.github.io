@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/04/02 08:40:16
+> 更新于 2024/04/03 08:39:05
 {: .prompt-info}
 
 ## 小目标
@@ -19,7 +19,7 @@ toc: true
 | [Vehicle Perception from Satellite](http://arxiv.org/abs/2402.00703v1) | [**link**](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos) |
 | [Robust Tiny Object Detection in Aerial Images amidst Label Noise](http://arxiv.org/abs/2401.08056v1) |  |
 | [Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion](http://arxiv.org/abs/2401.08017v1) |  |
-| [Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning](http://arxiv.org/abs/2401.04105v1) | [**link**](https://github.com/coolbay/Dr2Net) |
+| [Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning](http://arxiv.org/abs/2401.04105v2) | [**link**](https://github.com/coolbay/Dr2Net) |
 | [Small Bird Detection using YOLOv7 with Test-Time Augmentation](http://arxiv.org/abs/2401.01018v1) |  |
 | [Towards Automatic Power Battery Detection: New Challenge, Benchmark Dataset and Baseline](http://arxiv.org/abs/2312.02528v2) | [**link**](https://github.com/xiaoqi-zhao-dlut/x-ray-pbd) |
 
@@ -32,8 +32,8 @@ toc: true
 | [Sound event localization and classification using WASN in Outdoor Environment](http://arxiv.org/abs/2403.20130v1) |  |
 | [FSMR: A Feature Swapping Multi-modal Reasoning Approach with Joint Textual and Visual Clues](http://arxiv.org/abs/2403.20026v1) |  |
 | [SLFNet: Generating Semantic Logic Forms from Natural Language Using Semantic Probability Graphs](http://arxiv.org/abs/2403.19936v1) |  |
-| [DiJiang: Efficient Large Language Models through Compact Kernelization](http://arxiv.org/abs/2403.19928v1) |  |
-| [Video-Based Human Pose Regression via Decoupled Space-Time Aggregation](http://arxiv.org/abs/2403.19926v1) | [**link**](https://github.com/zgspose/dsta) |
+| [DiJiang: Efficient Large Language Models through Compact Kernelization](http://arxiv.org/abs/2403.19928v2) | [**link**](https://github.com/yuchuantian/dijiang) |
+| [Video-Based Human Pose Regression via Decoupled Space-Time Aggregation](http://arxiv.org/abs/2403.19926v2) | [**link**](https://github.com/zgspose/dsta) |
 | [Enhancing Efficiency in Vision Transformer Networks: Design Techniques and Insights](http://arxiv.org/abs/2403.19882v1) |  |
 | [AlloyBERT: Alloy Property Prediction with Large Language Models](http://arxiv.org/abs/2403.19783v1) |  |
 | [CLoRA: A Contrastive Approach to Compose Multiple LoRA Models](http://arxiv.org/abs/2403.19776v1) |  |
