@@ -2,7 +2,7 @@
 layout: post
 title: ArchLinux下UU加速器使用Steam
 date: 2023-07-26 11:11 +0800
-categories: [教程, linux]
+categories: [教程, Archlinux]
 tags: [archlinux, uu加速器]
 ---
 

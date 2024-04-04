@@ -2,7 +2,7 @@
 layout: post
 title: 让sddm跑在wayland下
 date: 2023-11-23 16:26 +0800
-category: [教程, linux]
+category: [教程, KDE]
 tags: [archlinux,sddm,wayland,kde]
 img_path: "/assets/img/posts/"
 ---

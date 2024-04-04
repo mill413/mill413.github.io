@@ -2,7 +2,7 @@
 layout: post
 title: 同步Fork的Github仓库
 date: 2024-01-02 21:49 +0800
-category: [教程]
+category: [教程,Git]
 tags: []
 img_path: "/assets/img/posts/"
 ---
