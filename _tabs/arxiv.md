@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/04/03 08:39:05
+> 更新于 2024/04/04 08:40:13
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
-| [Sparse multimodal fusion with modal channel attention](http://arxiv.org/abs/2403.20280v1) |  |
-| [MCNet: A crowd denstity estimation network based on integrating multiscale attention module](http://arxiv.org/abs/2403.20173v1) |  |
-| [Sound event localization and classification using WASN in Outdoor Environment](http://arxiv.org/abs/2403.20130v1) |  |
-| [FSMR: A Feature Swapping Multi-modal Reasoning Approach with Joint Textual and Visual Clues](http://arxiv.org/abs/2403.20026v1) |  |
-| [SLFNet: Generating Semantic Logic Forms from Natural Language Using Semantic Probability Graphs](http://arxiv.org/abs/2403.19936v1) |  |
-| [DiJiang: Efficient Large Language Models through Compact Kernelization](http://arxiv.org/abs/2403.19928v2) | [**link**](https://github.com/yuchuantian/dijiang) |
-| [Video-Based Human Pose Regression via Decoupled Space-Time Aggregation](http://arxiv.org/abs/2403.19926v2) | [**link**](https://github.com/zgspose/dsta) |
-| [Enhancing Efficiency in Vision Transformer Networks: Design Techniques and Insights](http://arxiv.org/abs/2403.19882v1) |  |
-| [AlloyBERT: Alloy Property Prediction with Large Language Models](http://arxiv.org/abs/2403.19783v1) |  |
-| [CLoRA: A Contrastive Approach to Compose Multiple LoRA Models](http://arxiv.org/abs/2403.19776v1) |  |
+| [SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation](http://arxiv.org/abs/2404.02041v1) |  |
+| [Towards Enhanced Analysis of Lung Cancer Lesions in EBUS-TBNA -- A Semi-Supervised Video Object Detection Method](http://arxiv.org/abs/2404.01929v1) |  |
+| [Large Motion Model for Unified Multi-Modal Motion Generation](http://arxiv.org/abs/2404.01284v1) |  |
+| [Positioning is All You Need](http://arxiv.org/abs/2404.01183v1) |  |
+| [Medical Visual Prompting (MVP): A Unified Framework for Versatile and High-Quality Medical Image Segmentation](http://arxiv.org/abs/2404.01127v1) |  |
+| [CMT: Cross Modulation Transformer with Hybrid Loss for Pansharpening](http://arxiv.org/abs/2404.01121v1) |  |
+| [Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On](http://arxiv.org/abs/2404.01089v1) |  |
+| [Machine Learning in High Energy Physics: A review of heavy-flavor jet tagging at the LHC](http://arxiv.org/abs/2404.01071v1) |  |
+| [Cross-channel Recommendation for Multi-channel Retail](http://arxiv.org/abs/2404.00972v1) |  |
+| [Harnessing The Power of Attention For Patch-Based Biomedical Image Classification](http://arxiv.org/abs/2404.00949v1) |  |
 
 ## 背景差分
 
