@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/04/04 08:40:13
+> 更新于 2024/04/05 08:39:25
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [Attention is Naturally Sparse with Gaussian Distributed Input](http://arxiv.org/abs/2404.02690v1) |  |
+| [Multi-Scale Spatial-Temporal Self-Attention Graph Convolutional Networks for Skeleton-based Action Recognition](http://arxiv.org/abs/2404.02624v1) |  |
+| [HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras](http://arxiv.org/abs/2404.02517v1) | [**link**](https://github.com/vdigpku/henet) |
 | [SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation](http://arxiv.org/abs/2404.02041v1) |  |
 | [Towards Enhanced Analysis of Lung Cancer Lesions in EBUS-TBNA -- A Semi-Supervised Video Object Detection Method](http://arxiv.org/abs/2404.01929v1) |  |
 | [Large Motion Model for Unified Multi-Modal Motion Generation](http://arxiv.org/abs/2404.01284v1) |  |
-| [Positioning is All You Need](http://arxiv.org/abs/2404.01183v1) |  |
+| [Positioning is All You Need](http://arxiv.org/abs/2404.01183v2) |  |
 | [Medical Visual Prompting (MVP): A Unified Framework for Versatile and High-Quality Medical Image Segmentation](http://arxiv.org/abs/2404.01127v1) |  |
 | [CMT: Cross Modulation Transformer with Hybrid Loss for Pansharpening](http://arxiv.org/abs/2404.01121v1) |  |
 | [Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On](http://arxiv.org/abs/2404.01089v1) |  |
-| [Machine Learning in High Energy Physics: A review of heavy-flavor jet tagging at the LHC](http://arxiv.org/abs/2404.01071v1) |  |
-| [Cross-channel Recommendation for Multi-channel Retail](http://arxiv.org/abs/2404.00972v1) |  |
-| [Harnessing The Power of Attention For Patch-Based Biomedical Image Classification](http://arxiv.org/abs/2404.00949v1) |  |
 
 ## 背景差分
 
