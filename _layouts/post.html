@@ -4,8 +4,8 @@ refactor: true
 panel_includes:
   - toc
 tail_includes:
-  - related-posts
   - post-nav
+  - related-posts
   - comments
 ---
 
@@ -107,7 +107,7 @@ tail_includes:
         {% assign _category_name = "" %}
         {% for category in page.categories %}
           {% if _category_name == "" %}
-          {% capture _category_name %}{{ category }}{% endcapture %}
+            {% capture _category_name %}{{ category }}{% endcapture %}
           {% else %}
             {% capture _category_name %}{{ _category_name }}-{{ category }}{% endcapture %}
           {% endif %}
