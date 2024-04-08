@@ -448,6 +448,21 @@ reboot
 
    `文件搜索`中`要索引的数据`选择`仅文件名`
 
+#### 2.2.5 面板挂件
+
+- 窗口标题和窗口按钮
+
+  ```console
+  paru plasma-applet-window-buttons
+  paru plasma6-applets-window-title
+  ```
+
+- 面板美化
+
+   ```console
+   paru plasma6-applets-panel-colorizer
+   ```
+
 ### 2.3 应用软件
 
 #### 2.3.1 AUR
