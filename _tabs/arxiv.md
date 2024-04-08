@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/04/07 08:43:32
+> 更新于 2024/04/08 08:40:12
 {: .prompt-info}
 
 ## 小目标
@@ -29,7 +29,7 @@ toc: true
 | --- | --- |
 | [Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning](http://arxiv.org/abs/2404.03658v1) | [**link**](https://github.com/ruili3/Know-Your-Neighbors) |
 | [InsectMamba: Insect Pest Classification with State Space Model](http://arxiv.org/abs/2404.03611v1) |  |
-| [Part-Attention Based Model Make Occluded Person Re-Identification Stronger](http://arxiv.org/abs/2404.03443v1) |  |
+| [Part-Attention Based Model Make Occluded Person Re-Identification Stronger](http://arxiv.org/abs/2404.03443v2) |  |
 | [Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity](http://arxiv.org/abs/2404.03368v1) |  |
 | [LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity](http://arxiv.org/abs/2404.03214v1) | [**link**](https://github.com/walbouss/legrad) |
 | [Diverse and Tailored Image Generation for Zero-shot Multi-label Classification](http://arxiv.org/abs/2404.03144v1) |  |
