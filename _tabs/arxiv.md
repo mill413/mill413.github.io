@@ -5,13 +5,14 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/04/08 08:40:12
+> 更新于 2024/04/09 08:39:49
 {: .prompt-info}
 
 ## 小目标
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
 | [DQ-DETR: DETR with Dynamic Query for Tiny Object Detection](http://arxiv.org/abs/2404.03507v1) |  |
 | [HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
 | [FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion](http://arxiv.org/abs/2403.03463v1) |  |
@@ -21,22 +22,21 @@ toc: true
 | [Robust Tiny Object Detection in Aerial Images amidst Label Noise](http://arxiv.org/abs/2401.08056v1) |  |
 | [Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion](http://arxiv.org/abs/2401.08017v1) |  |
 | [Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning](http://arxiv.org/abs/2401.04105v2) | [**link**](https://github.com/coolbay/Dr2Net) |
-| [Small Bird Detection using YOLOv7 with Test-Time Augmentation](http://arxiv.org/abs/2401.01018v1) |  |
 
 ## 注意力机制
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [Enhancing IoT Intelligence: A Transformer-based Reinforcement Learning Methodology](http://arxiv.org/abs/2404.04205v1) |  |
+| [Learning Correlation Structures for Vision Transformers](http://arxiv.org/abs/2404.03924v1) |  |
+| [Nonlinear Kalman Filtering based on Self-Attention Mechanism and Lattice Trajectory Piecewise Linear Approximation](http://arxiv.org/abs/2404.03915v1) |  |
+| [LiDAR-Guided Cross-Attention Fusion for Hyperspectral Band Selection and Image Classification](http://arxiv.org/abs/2404.03883v1) |  |
+| [BiSHop: Bi-Directional Cellular Learning for Tabular Data with Generalized Sparse Modern Hopfield Model](http://arxiv.org/abs/2404.03830v1) | [**link**](https://github.com/magics-lab/bishop) |
+| [Outlier-Efficient Hopfield Layers for Large Transformer-Based Models](http://arxiv.org/abs/2404.03828v1) | [**link**](https://github.com/magics-lab/outeffhop) |
 | [Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning](http://arxiv.org/abs/2404.03658v1) | [**link**](https://github.com/ruili3/Know-Your-Neighbors) |
 | [InsectMamba: Insect Pest Classification with State Space Model](http://arxiv.org/abs/2404.03611v1) |  |
 | [Part-Attention Based Model Make Occluded Person Re-Identification Stronger](http://arxiv.org/abs/2404.03443v2) |  |
 | [Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity](http://arxiv.org/abs/2404.03368v1) |  |
-| [LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity](http://arxiv.org/abs/2404.03214v1) | [**link**](https://github.com/walbouss/legrad) |
-| [Diverse and Tailored Image Generation for Zero-shot Multi-label Classification](http://arxiv.org/abs/2404.03144v1) |  |
-| [Attention is Naturally Sparse with Gaussian Distributed Input](http://arxiv.org/abs/2404.02690v1) |  |
-| [Multi-Scale Spatial-Temporal Self-Attention Graph Convolutional Networks for Skeleton-based Action Recognition](http://arxiv.org/abs/2404.02624v1) |  |
-| [HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras](http://arxiv.org/abs/2404.02517v1) | [**link**](https://github.com/vdigpku/henet) |
-| [SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation](http://arxiv.org/abs/2404.02041v1) |  |
 
 ## 背景差分
 
