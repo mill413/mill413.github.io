@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/04/09 08:39:49
+> 更新于 2024/04/10 08:38:56
 {: .prompt-info}
 
 ## 小目标
@@ -27,22 +27,22 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
-| [Enhancing IoT Intelligence: A Transformer-based Reinforcement Learning Methodology](http://arxiv.org/abs/2404.04205v1) |  |
-| [Learning Correlation Structures for Vision Transformers](http://arxiv.org/abs/2404.03924v1) |  |
-| [Nonlinear Kalman Filtering based on Self-Attention Mechanism and Lattice Trajectory Piecewise Linear Approximation](http://arxiv.org/abs/2404.03915v1) |  |
-| [LiDAR-Guided Cross-Attention Fusion for Hyperspectral Band Selection and Image Classification](http://arxiv.org/abs/2404.03883v1) |  |
-| [BiSHop: Bi-Directional Cellular Learning for Tabular Data with Generalized Sparse Modern Hopfield Model](http://arxiv.org/abs/2404.03830v1) | [**link**](https://github.com/magics-lab/bishop) |
-| [Outlier-Efficient Hopfield Layers for Large Transformer-Based Models](http://arxiv.org/abs/2404.03828v1) | [**link**](https://github.com/magics-lab/outeffhop) |
-| [Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning](http://arxiv.org/abs/2404.03658v1) | [**link**](https://github.com/ruili3/Know-Your-Neighbors) |
-| [InsectMamba: Insect Pest Classification with State Space Model](http://arxiv.org/abs/2404.03611v1) |  |
-| [Part-Attention Based Model Make Occluded Person Re-Identification Stronger](http://arxiv.org/abs/2404.03443v2) |  |
-| [Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity](http://arxiv.org/abs/2404.03368v1) |  |
+| [MLP Can Be A Good Transformer Learner](http://arxiv.org/abs/2404.05657v1) |  |
+| [Multi-head Attention-based Deep Multiple Instance Learning](http://arxiv.org/abs/2404.05362v1) |  |
+| [Unsupervised Band Selection Using Fused HSI and LiDAR Attention Integrating With Autoencoder](http://arxiv.org/abs/2404.05258v1) |  |
+| [Spatio-Temporal Attention and Gaussian Processes for Personalized Video Gaze Estimation](http://arxiv.org/abs/2404.05215v1) | [**link**](https://github.com/jswati31/stage) |
+| [Bidirectional Long-Range Parser for Sequential Data Understanding](http://arxiv.org/abs/2404.05210v1) |  |
+| [ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting](http://arxiv.org/abs/2404.05192v1) | [**link**](https://github.com/yhyhyhyhyhy/atfnet) |
+| [StockGPT: A GenAI Model for Stock Prediction and Trading](http://arxiv.org/abs/2404.05101v1) |  |
+| [GvT: A Graph-based Vision Transformer with Talking-Heads Utilizing Sparsity, Trained from Scratch on Small Datasets](http://arxiv.org/abs/2404.04924v1) |  |
+| [CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data](http://arxiv.org/abs/2404.04878v1) |  |
+| [Interpretable Multimodal Learning for Cardiovascular Hemodynamics Assessment](http://arxiv.org/abs/2404.04718v1) | [**link**](https://github.com/prasunc/hemodynamics) |
 
 ## 背景差分
 
 | 论文 | 代码链接 |
 | --- | --- |
-| [Linear Anchored Gaussian Mixture Model for Location and Width Computation of Objects in Thick Line Shape](http://arxiv.org/abs/2404.03043v1) |  |
+| [Linear Anchored Gaussian Mixture Model for Location and Width Computation of Objects in Thick Line Shape](http://arxiv.org/abs/2404.03043v2) |  |
 | [Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI](http://arxiv.org/abs/2404.03003v1) |  |
 | [QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays](http://arxiv.org/abs/2402.13805v2) |  |
 | [Hand Shape and Gesture Recognition using Multiscale Template Matching, Background Subtraction and Binary Image Analysis](http://arxiv.org/abs/2402.09663v1) |  |
