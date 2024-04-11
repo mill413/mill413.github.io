@@ -9,6 +9,7 @@ image:
     path: image.jpeg
     alt: Plasma6
 pin: true
+comments: true
 ---
 
 > 本文为 *自用* 指南，仅对本人负责，若您因本文而产生了困扰，概不负责
