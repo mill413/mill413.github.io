@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/04/11 08:39:46
+> 更新于 2024/04/12 08:39:50
 {: .prompt-info}
 
 ## 小目标
@@ -27,21 +27,22 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](http://arxiv.org/abs/2404.07143v1) |  |
+| [3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion](http://arxiv.org/abs/2404.07106v1) |  |
+| [Implicit Multi-Spectral Transformer: An Lightweight and Effective Visible to Infrared Image Translation Model](http://arxiv.org/abs/2404.07072v1) | [**link**](https://github.com/CXH-Research/IRFormer) |
+| [FiP: a Fixed-Point Approach for Causal Generative Modeling](http://arxiv.org/abs/2404.06969v1) |  |
+| [Accelerating Cardiac MRI Reconstruction with CMRatt: An Attention-Driven Approach](http://arxiv.org/abs/2404.06941v1) |  |
+| [Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression](http://arxiv.org/abs/2404.06936v1) | [**link**](https://github.com/i2-multimedia-lab/polopcac) |
+| [GraSAME: Injecting Token-Level Structural Information to Pretrained Language Models via Graph-guided Self-Attention Mechanism](http://arxiv.org/abs/2404.06911v1) |  |
+| [FlameFinder: Illuminating Obscured Fire through Smoke with Attentive Deep Metric Learning](http://arxiv.org/abs/2404.06653v1) |  |
 | [Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection](http://arxiv.org/abs/2404.06469v1) |  |
 | [Rolling Shutter Correction with Intermediate Distortion Flow Estimation](http://arxiv.org/abs/2404.06350v1) | [**link**](https://github.com/ljzycmd/dfrsc) |
-| [Space-Time Video Super-resolution with Neural Operator](http://arxiv.org/abs/2404.06036v1) |  |
-| [Little Strokes Fell Great Oaks: Boosting the Hierarchical Features for Multi-exposure Image Fusion](http://arxiv.org/abs/2404.06033v2) | [**link**](https://github.com/zhiyingdu/bhfmef) |
-| [EasyTrack: Efficient and Compact One-stream 3D Point Clouds Tracker](http://arxiv.org/abs/2404.05960v1) |  |
-| [LATUP-Net: A Lightweight 3D Attention U-Net with Parallel Convolutions for Brain Tumor Segmentation](http://arxiv.org/abs/2404.05911v1) |  |
-| [Rapid and Precise Topological Comparison with Merge Tree Neural Networks](http://arxiv.org/abs/2404.05879v1) |  |
-| [Softmax Attention with Constant Cost per Token](http://arxiv.org/abs/2404.05843v1) | [**link**](https://github.com/glassroom/heinsen_attention) |
-| [Attention-Driven Multi-Agent Reinforcement Learning: Enhancing Decisions with Expertise-Informed Tasks](http://arxiv.org/abs/2404.05840v1) |  |
-| [MLP Can Be A Good Transformer Learner](http://arxiv.org/abs/2404.05657v1) | [**link**](https://github.com/sihaoevery/lambda_vit) |
 
 ## 背景差分
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [JADES Data Release 3 -- NIRSpec/MSA spectroscopy for 4,000 galaxies in the GOODS fields](http://arxiv.org/abs/2404.06531v1) |  |
 | [Linear Anchored Gaussian Mixture Model for Location and Width Computation of Objects in Thick Line Shape](http://arxiv.org/abs/2404.03043v2) |  |
 | [Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI](http://arxiv.org/abs/2404.03003v2) |  |
 | [QCD corrections to the Darwin coefficient in inclusive semileptonic $B\rightarrow X_u \ell \barν_\ell$ decays](http://arxiv.org/abs/2402.13805v2) |  |
@@ -51,4 +52,3 @@ toc: true
 | [MUSTAN: Multi-scale Temporal Context as Attention for Robust Video Foreground Segmentation](http://arxiv.org/abs/2402.00918v1) |  |
 | [Enhancing Sensing-Assisted Communications in Cluttered Indoor Environments through Background Subtraction](http://arxiv.org/abs/2401.05763v1) |  |
 | [Traffic Cameras to detect inland waterway barge traffic: An Application of machine learning](http://arxiv.org/abs/2401.03070v1) |  |
-| [The stellar mass function of quiescent galaxies in 2 < z < 2.5 protoclusters](http://arxiv.org/abs/2312.12380v1) |  |
