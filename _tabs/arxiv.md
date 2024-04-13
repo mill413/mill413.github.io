@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/04/12 08:39:50
+> 更新于 2024/04/13 08:33:29
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [LLoCO: Learning Long Contexts Offline](http://arxiv.org/abs/2404.07979v1) |  |
+| [Taming Stable Diffusion for Text to 360° Panorama Image Generation](http://arxiv.org/abs/2404.07949v1) | [**link**](https://github.com/chengzhag/panfusion) |
+| [TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising](http://arxiv.org/abs/2404.07846v1) | [**link**](https://github.com/nagejacob/tbsn) |
+| [Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos](http://arxiv.org/abs/2404.07645v1) |  |
+| [Homography Guided Temporal Fusion for Road Line and Marking Segmentation](http://arxiv.org/abs/2404.07626v1) | [**link**](https://github.com/shanwang-shan/homofusion) |
+| [Attention based End to end network for Offline Writer Identification on Word level data](http://arxiv.org/abs/2404.07602v1) |  |
+| [M-scan: A Multi-Scenario Causal-driven Adaptive Network for Recommendation](http://arxiv.org/abs/2404.07581v1) |  |
+| [Multimodal Emotion Recognition by Fusing Video Semantic in MOOC Learning Scenarios](http://arxiv.org/abs/2404.07484v1) |  |
 | [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](http://arxiv.org/abs/2404.07143v1) |  |
 | [3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion](http://arxiv.org/abs/2404.07106v1) |  |
-| [Implicit Multi-Spectral Transformer: An Lightweight and Effective Visible to Infrared Image Translation Model](http://arxiv.org/abs/2404.07072v1) | [**link**](https://github.com/CXH-Research/IRFormer) |
-| [FiP: a Fixed-Point Approach for Causal Generative Modeling](http://arxiv.org/abs/2404.06969v1) |  |
-| [Accelerating Cardiac MRI Reconstruction with CMRatt: An Attention-Driven Approach](http://arxiv.org/abs/2404.06941v1) |  |
-| [Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression](http://arxiv.org/abs/2404.06936v1) | [**link**](https://github.com/i2-multimedia-lab/polopcac) |
-| [GraSAME: Injecting Token-Level Structural Information to Pretrained Language Models via Graph-guided Self-Attention Mechanism](http://arxiv.org/abs/2404.06911v1) |  |
-| [FlameFinder: Illuminating Obscured Fire through Smoke with Attentive Deep Metric Learning](http://arxiv.org/abs/2404.06653v1) |  |
-| [Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection](http://arxiv.org/abs/2404.06469v1) |  |
-| [Rolling Shutter Correction with Intermediate Distortion Flow Estimation](http://arxiv.org/abs/2404.06350v1) | [**link**](https://github.com/ljzycmd/dfrsc) |
 
 ## 背景差分
 
