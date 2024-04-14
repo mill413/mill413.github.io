@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/04/13 08:33:29
+> 更新于 2024/04/14 08:46:10
 {: .prompt-info}
 
 ## 小目标
@@ -27,7 +27,7 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
-| [LLoCO: Learning Long Contexts Offline](http://arxiv.org/abs/2404.07979v1) |  |
+| [LLoCO: Learning Long Contexts Offline](http://arxiv.org/abs/2404.07979v1) | [**link**](https://github.com/jeffreysijuntan/lloco) |
 | [Taming Stable Diffusion for Text to 360° Panorama Image Generation](http://arxiv.org/abs/2404.07949v1) | [**link**](https://github.com/chengzhag/panfusion) |
 | [TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising](http://arxiv.org/abs/2404.07846v1) | [**link**](https://github.com/nagejacob/tbsn) |
 | [Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos](http://arxiv.org/abs/2404.07645v1) |  |
