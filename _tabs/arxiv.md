@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/04/14 08:46:10
+> 更新于 2024/04/15 11:07:26
 {: .prompt-info}
 
 ## 小目标
@@ -14,7 +14,7 @@ toc: true
 | --- | --- |
 | [YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images](http://arxiv.org/abs/2404.06180v1) |  |
 | [SCAResNet: A ResNet Variant Optimized for Tiny Object Detection in Transmission and Distribution Towers](http://arxiv.org/abs/2404.04179v1) | [**link**](https://github.com/lisavilalee/scaresnet_mmdet) |
-| [DQ-DETR: DETR with Dynamic Query for Tiny Object Detection](http://arxiv.org/abs/2404.03507v1) |  |
+| [DQ-DETR: DETR with Dynamic Query for Tiny Object Detection](http://arxiv.org/abs/2404.03507v2) |  |
 | [HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection](http://arxiv.org/abs/2403.10778v1) | [**link**](https://github.com/zhengshuchen/hcfnet) |
 | [FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion](http://arxiv.org/abs/2403.03463v1) |  |
 | [YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5](http://arxiv.org/abs/2402.14309v1) |  |
@@ -29,6 +29,7 @@ toc: true
 | --- | --- |
 | [LLoCO: Learning Long Contexts Offline](http://arxiv.org/abs/2404.07979v1) | [**link**](https://github.com/jeffreysijuntan/lloco) |
 | [Taming Stable Diffusion for Text to 360° Panorama Image Generation](http://arxiv.org/abs/2404.07949v1) | [**link**](https://github.com/chengzhag/panfusion) |
+| [SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction](http://arxiv.org/abs/2404.08027v1) |  |
 | [TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising](http://arxiv.org/abs/2404.07846v1) | [**link**](https://github.com/nagejacob/tbsn) |
 | [Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos](http://arxiv.org/abs/2404.07645v1) |  |
 | [Homography Guided Temporal Fusion for Road Line and Marking Segmentation](http://arxiv.org/abs/2404.07626v1) | [**link**](https://github.com/shanwang-shan/homofusion) |
@@ -36,7 +37,6 @@ toc: true
 | [M-scan: A Multi-Scenario Causal-driven Adaptive Network for Recommendation](http://arxiv.org/abs/2404.07581v1) |  |
 | [Multimodal Emotion Recognition by Fusing Video Semantic in MOOC Learning Scenarios](http://arxiv.org/abs/2404.07484v1) |  |
 | [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](http://arxiv.org/abs/2404.07143v1) |  |
-| [3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion](http://arxiv.org/abs/2404.07106v1) |  |
 
 ## 背景差分
 
