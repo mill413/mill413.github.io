@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/04/16 08:38:51
+> 更新于 2024/04/17 08:39:38
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising](http://arxiv.org/abs/2404.09697v1) |  |
+| [Hierarchical Attention Models for Multi-Relational Graphs](http://arxiv.org/abs/2404.09365v1) |  |
+| [Breast Cancer Image Classification Method Based on Deep Transfer Learning](http://arxiv.org/abs/2404.09226v1) |  |
+| [HANet: A Hierarchical Attention Network for Change Detection With Bitemporal Very-High-Resolution Remote Sensing Images](http://arxiv.org/abs/2404.09178v1) | [**link**](https://github.com/chengxihan/hanet-cd) |
+| [StreakNet-Arch: An Anti-scattering Network-based Architecture for Underwater Carrier LiDAR-Radar Imaging](http://arxiv.org/abs/2404.09158v1) | [**link**](https://github.com/bestanhongjun/streaknet) |
+| [Developing An Attention-Based Ensemble Learning Framework for Financial Portfolio Optimisation](http://arxiv.org/abs/2404.08935v1) |  |
+| [BERT-LSH: Reducing Absolute Compute For Attention](http://arxiv.org/abs/2404.08836v1) |  |
+| [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](http://arxiv.org/abs/2404.08801v2) | [**link**](https://github.com/xuezhemax/megalodon) |
 | [LLoCO: Learning Long Contexts Offline](http://arxiv.org/abs/2404.07979v1) | [**link**](https://github.com/jeffreysijuntan/lloco) |
 | [Taming Stable Diffusion for Text to 360° Panorama Image Generation](http://arxiv.org/abs/2404.07949v1) | [**link**](https://github.com/chengzhag/panfusion) |
-| [SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction](http://arxiv.org/abs/2404.08027v1) |  |
-| [TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising](http://arxiv.org/abs/2404.07846v1) | [**link**](https://github.com/nagejacob/tbsn) |
-| [Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos](http://arxiv.org/abs/2404.07645v1) |  |
-| [Homography Guided Temporal Fusion for Road Line and Marking Segmentation](http://arxiv.org/abs/2404.07626v1) | [**link**](https://github.com/shanwang-shan/homofusion) |
-| [Attention based End to end network for Offline Writer Identification on Word level data](http://arxiv.org/abs/2404.07602v1) |  |
-| [M-scan: A Multi-Scenario Causal-driven Adaptive Network for Recommendation](http://arxiv.org/abs/2404.07581v1) |  |
-| [Multimodal Emotion Recognition by Fusing Video Semantic in MOOC Learning Scenarios](http://arxiv.org/abs/2404.07484v1) |  |
-| [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](http://arxiv.org/abs/2404.07143v1) |  |
 
 ## 背景差分
 
