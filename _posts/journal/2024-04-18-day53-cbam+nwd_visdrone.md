@@ -9,7 +9,7 @@ img_path: "/assets/img/posts/"
 
 yolov5s/m和yolov8s在backbone的C3/C2f模块后添加一层CBAM,使用NWD损失函数,在VisDrone2019上训练200epochs
 
-- Yolov5s-p234-nwd
+- Yolov5s-cbam-nwd
 
     Parameters: 9.502M
 
@@ -27,7 +27,7 @@ yolov5s/m和yolov8s在backbone的C3/C2f模块后添加一层CBAM,使用NWD损失
     |                  bus|     0.683|     0.542|     0.575|     0.399|
     |                motor|     0.534|      0.44|     0.443|     0.192|
 
-- Yolov5m-p234-nwd
+- Yolov5m-cbam-nwd
 
     Parameters: 25.896M
 
@@ -45,7 +45,7 @@ yolov5s/m和yolov8s在backbone的C3/C2f模块后添加一层CBAM,使用NWD损失
     |                  bus|     0.727|     0.594|      0.63|     0.451|
     |                motor|     0.542|     0.476|     0.472|     0.214|
 
-- Yolov8s-p234-nwd
+- Yolov8s-cbam-nwd
 
     Parameters: 11.516M
 
