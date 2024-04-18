@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/04/17 08:39:38
+> 更新于 2024/04/18 08:39:01
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
+| [HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction](http://arxiv.org/abs/2404.10561v1) |  |
+| [Adversarial Identity Injection for Semantic Face Image Synthesis](http://arxiv.org/abs/2404.10408v1) |  |
+| [Stampede Alert Clustering Algorithmic System Based on Tiny-Scale Strengthened DETR](http://arxiv.org/abs/2404.10359v1) |  |
+| [Anomaly Correction of Business Processes Using Transformer Autoencoder](http://arxiv.org/abs/2404.10211v1) |  |
+| [MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition](http://arxiv.org/abs/2404.10210v1) |  |
+| [Numerical Attributes Learning for Cardiac Failure Diagnostic from Clinical Narratives - A LESA-CamemBERT-bio Approach](http://arxiv.org/abs/2404.10171v1) |  |
+| [High-Resolution Detection of Earth Structural Heterogeneities from Seismic Amplitudes using Convolutional Neural Networks with Attention layers](http://arxiv.org/abs/2404.10170v1) |  |
+| [Deceiving to Enlighten: Coaxing LLMs to Self-Reflection for Enhanced Bias Detection and Mitigation](http://arxiv.org/abs/2404.10160v1) |  |
+| [Unifying Global and Local Scene Entities Modelling for Precise Action Spotting](http://arxiv.org/abs/2404.09951v1) |  |
 | [HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising](http://arxiv.org/abs/2404.09697v1) |  |
-| [Hierarchical Attention Models for Multi-Relational Graphs](http://arxiv.org/abs/2404.09365v1) |  |
-| [Breast Cancer Image Classification Method Based on Deep Transfer Learning](http://arxiv.org/abs/2404.09226v1) |  |
-| [HANet: A Hierarchical Attention Network for Change Detection With Bitemporal Very-High-Resolution Remote Sensing Images](http://arxiv.org/abs/2404.09178v1) | [**link**](https://github.com/chengxihan/hanet-cd) |
-| [StreakNet-Arch: An Anti-scattering Network-based Architecture for Underwater Carrier LiDAR-Radar Imaging](http://arxiv.org/abs/2404.09158v1) | [**link**](https://github.com/bestanhongjun/streaknet) |
-| [Developing An Attention-Based Ensemble Learning Framework for Financial Portfolio Optimisation](http://arxiv.org/abs/2404.08935v1) |  |
-| [BERT-LSH: Reducing Absolute Compute For Attention](http://arxiv.org/abs/2404.08836v1) |  |
-| [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](http://arxiv.org/abs/2404.08801v2) | [**link**](https://github.com/xuezhemax/megalodon) |
-| [LLoCO: Learning Long Contexts Offline](http://arxiv.org/abs/2404.07979v1) | [**link**](https://github.com/jeffreysijuntan/lloco) |
-| [Taming Stable Diffusion for Text to 360° Panorama Image Generation](http://arxiv.org/abs/2404.07949v1) | [**link**](https://github.com/chengzhag/panfusion) |
 
 ## 背景差分
 
