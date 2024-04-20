@@ -5,7 +5,7 @@ order: 4
 toc: true
 ---
 
-> 更新于 2024/04/19 08:39:37
+> 更新于 2024/04/20 08:39:52
 {: .prompt-info}
 
 ## 小目标
@@ -27,16 +27,16 @@ toc: true
 
 | 论文 | 代码链接 |
 | --- | --- |
-| [Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation](http://arxiv.org/abs/2404.11519v1) | [**link**](https://github.com/jianhuadongcs/disen-cgcn) |
-| [Deep Pattern Network for Click-Through Rate Prediction](http://arxiv.org/abs/2404.11456v1) |  |
-| [Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in Surface Electromyographic Signal Analysis](http://arxiv.org/abs/2404.11213v1) |  |
-| [LongVQ: Long Sequence Modeling with Vector Quantization on Structured Memory](http://arxiv.org/abs/2404.11163v2) |  |
-| [Spatial-Aware Image Retrieval: A Hyperdimensional Computing Approach for Efficient Similarity Hashing](http://arxiv.org/abs/2404.11025v1) |  |
-| [HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction](http://arxiv.org/abs/2404.10561v1) |  |
-| [Adversarial Identity Injection for Semantic Face Image Synthesis](http://arxiv.org/abs/2404.10408v1) |  |
-| [Stampede Alert Clustering Algorithmic System Based on Tiny-Scale Strengthened DETR](http://arxiv.org/abs/2404.10359v1) |  |
-| [Anomaly Correction of Business Processes Using Transformer Autoencoder](http://arxiv.org/abs/2404.10211v1) |  |
-| [MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition](http://arxiv.org/abs/2404.10210v1) |  |
+| [6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction](http://arxiv.org/abs/2404.12378v1) | [**link**](https://github.com/continental/6img-to-3d) |
+| [When Medical Imaging Met Self-Attention: A Love Story That Didn't Quite Work Out](http://arxiv.org/abs/2404.12295v1) |  |
+| [Dynamic Modality and View Selection for Multimodal Emotion Recognition with Missing Modalities](http://arxiv.org/abs/2404.12251v1) |  |
+| [MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification](http://arxiv.org/abs/2404.12081v1) | [**link**](https://github.com/ericyu97/maskcd) |
+| [Data-free Knowledge Distillation for Fine-grained Visual Categorization](http://arxiv.org/abs/2404.12037v1) | [**link**](https://github.com/roryshao/dfkd-fgvc) |
+| [Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration](http://arxiv.org/abs/2404.12022v1) |  |
+| [FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models](http://arxiv.org/abs/2404.11895v1) |  |
+| [Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation](http://arxiv.org/abs/2404.11858v1) |  |
+| [Computer-Aided Diagnosis of Thoracic Diseases in Chest X-rays using hybrid CNN-Transformer Architecture](http://arxiv.org/abs/2404.11843v1) |  |
+| [Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach](http://arxiv.org/abs/2404.11732v1) |  |
 
 ## 背景差分
 
