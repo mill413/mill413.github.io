@@ -4,7 +4,7 @@ title: Day32 - P2改进在VisDrone上的表现
 date: 2024-03-16 12:07 +0800
 category: [读研日记]
 tags: []
-img_path: "/assets/img/posts/"
+media_subpath: "/assets/img/posts/"
 ---
 
 yolov5n/s/m和yolov8n/s仅添加p2检测头,在VisDrone上训练200epochs

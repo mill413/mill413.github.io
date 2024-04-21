@@ -4,7 +4,7 @@ title: Archlinux自用指南
 date: 2024-03-09 08:51 +0800
 category: [教程, Archlinux]
 tags: [archlinux, kde, wayland]
-img_path: "/assets/img/posts/240309/"
+media_subpath: "/assets/img/posts/240309/"
 image: 
     path: image.jpeg
     alt: Plasma6

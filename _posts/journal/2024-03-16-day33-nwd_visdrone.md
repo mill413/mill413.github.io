@@ -4,7 +4,7 @@ title: Day33 - NWD在VisDrone上的表现
 date: 2024-03-16 18:51 +0800
 category: [读研日记]
 tags: []
-img_path: "/assets/img/posts/"
+media_subpath: "/assets/img/posts/"
 ---
 
 yolov5n/s/m和yolov8n/s仅使用NWD损失函数,在VisDrone2019上训练200epochs

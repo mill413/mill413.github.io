@@ -4,7 +4,7 @@ title: Day53 - CBAM+NWD改进在VisDrone上的表现
 date: 2024-04-18 09:12 +0800
 category: [读研日记]
 tags: []
-img_path: "/assets/img/posts/"
+media_subpath: "/assets/img/posts/"
 ---
 
 yolov5s/m和yolov8s在backbone的C3/C2f模块后添加一层CBAM,使用NWD损失函数,在VisDrone2019上训练200epochs

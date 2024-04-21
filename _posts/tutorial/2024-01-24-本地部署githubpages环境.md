@@ -4,7 +4,7 @@ title: 本地部署GithubPages环境
 date: 2024-01-24 17:19 +0800
 category: [教程]
 tags: [jekyll,githubpage]
-img_path: "/assets/img/posts/"
+media_subpath: "/assets/img/posts/"
 ---
 
 重装系统后，往往也需要重新安装各种环境，在此记录一下Github Page的本地搭建环境

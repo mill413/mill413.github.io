@@ -4,7 +4,7 @@ title: Day29 - Baseline在VsiDrone上的表现
 date: 2024-03-11 23:33 +0800
 category: [读研日记]
 tags: []
-img_path: "/assets/img/posts/"
+media_subpath: "/assets/img/posts/"
 ---
 
 以yolov5n/s/m和yolov8n/s作为baseline,在VisDrone2019上训练200epochs

@@ -4,7 +4,7 @@ title: Archlinux+KDE美化记录
 date: 2023-10-03 21:47 +0800
 category: [记录,Archlinux]
 tags: [archlinux,美化,kde,wayland]
-img_path: /assets/img/posts/231003/
+media_subpath: /assets/img/posts/231003/
 image: 
     path: preview.png
     alt: 美化后的桌面，点击查看大图

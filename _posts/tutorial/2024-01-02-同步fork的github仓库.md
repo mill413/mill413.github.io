@@ -4,7 +4,7 @@ title: 同步Fork的Github仓库
 date: 2024-01-02 21:49 +0800
 category: [教程,Git]
 tags: []
-img_path: "/assets/img/posts/"
+media_subpath: "/assets/img/posts/"
 ---
 
 最近发现`Github Pages`的`sync fork`老是提示冲突，每次要合并都得手动处理，记录一下这几个命令

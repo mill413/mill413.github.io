@@ -4,7 +4,7 @@ title: Day55 - P234+CBAM改进在VisDrone2019上的表现
 date: 2024-04-19 11:52 +0800
 category: [读研日记]
 tags: []
-img_path: "/assets/img/posts/"
+media_subpath: "/assets/img/posts/"
 ---
 
 yolov5s/m和yolov8s,删除P5检测头+添加P2检测头,在backbone的C3/C2f模块后添加一层CBAM,在VisDrone2019上训练200epochs

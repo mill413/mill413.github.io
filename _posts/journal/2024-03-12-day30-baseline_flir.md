@@ -4,7 +4,7 @@ title: Day30 - Baseline在FLIR上的表现
 date: 2024-03-12 20:04 +0800
 category: [读研日记]
 tags: []
-img_path: "/assets/img/posts/"
+media_subpath: "/assets/img/posts/"
 ---
 
 以yolov5n/s/m和yolov8n/s作为baseline,在FLIR上训练200epochs

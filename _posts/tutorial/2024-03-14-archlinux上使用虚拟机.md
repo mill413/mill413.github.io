@@ -4,7 +4,7 @@ title: archlinux上使用虚拟机
 date: 2024-03-14 19:59 +0800
 category: [教程]
 tags: [qemu, virt-manager, archlinux, kvm]
-img_path: "/assets/img/posts/"
+media_subpath: "/assets/img/posts/"
 ---
 
 1. 确保bios支持并已开启虚拟化

@@ -4,7 +4,7 @@ title: Day51 - P234+NWD改进在VisDrone上的表现
 date: 2024-04-16 23:18 +0800
 category: [读研日记]
 tags: []
-img_path: "/assets/img/posts/"
+media_subpath: "/assets/img/posts/"
 ---
 
 yolov5s/m和yolov8s删除P5检测头+添加P2检测头,使用NWD损失函数,在VisDrone上训练200epochs

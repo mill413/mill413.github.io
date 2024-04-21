@@ -4,7 +4,7 @@ title: Oh-My-Posh中显示Python虚拟环境提示符
 date: 2024-01-21 18:53 +0800
 category: [教程]
 tags: [ohmyposh]
-img_path: "/assets/img/posts/"
+media_subpath: "/assets/img/posts/"
 render_with_liquid: false
 ---
 

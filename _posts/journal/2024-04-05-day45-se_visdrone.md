@@ -4,7 +4,7 @@ title: Day45 - Backbone中C3/C2f后添加一层SEAttention在VisDrone上的表�
 date: 2024-04-05 09:35 +0800
 category: [读研日记]
 tags: []
-img_path: "/assets/img/posts/"
+media_subpath: "/assets/img/posts/"
 ---
 
 yolov5n/s/m和yolov8n/s仅在backbone的C3/C2f模块后添加一层SE,在VisDrone上训练200epochs
