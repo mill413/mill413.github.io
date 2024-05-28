@@ -764,9 +764,9 @@ sudo pacman -S paru
 
 ## 4 目前的痛点
 
-- [ ] electron应用在Wayland下全局菜单失效
+- [ ] VSCode、Chrome和Firefox在Wayland下全局菜单失效
 
-- [ ] chromium系在Wayland下`drag and drop`失效以及右键菜单位置错误
+- [x] chromium系在Wayland下`drag and drop`失效以及右键菜单位置错误
 
 - [ ] VSCode在Wayland下任务管理器图标异常
 
