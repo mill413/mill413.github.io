@@ -153,6 +153,8 @@ baseurl: ""
 external_links:
   - name: This blog's repo  
     link: https://github.com/mill413/mill413.github.io
+  - name: Dqz00116's blog
+    link: https://www.nekonet.cn/
 
 jekyll_compose:
   default_front_matter:
