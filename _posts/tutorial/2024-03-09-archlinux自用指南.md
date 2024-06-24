@@ -431,9 +431,12 @@ reboot
 
    修改名称和图标
 
-- KWin脚本
+- 全屏隐藏标题栏
 
-   右上角获取新脚本搜索并安装`Truely Maximized`
+   编辑`~/.config/kwinrc`，在`[Windows]`下添加
+   ```text
+   BorderlessMaximizedWindows=true
+   ```
 
 #### 2.2.4 工作区
 
