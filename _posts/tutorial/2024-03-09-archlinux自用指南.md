@@ -280,11 +280,12 @@ sudo pacman-key --lsign-key "farseerfc@archlinux.org"
 >
 > 若未开启对32位库的支持，请不要安装lib32开头的包
 >
-> 由于我使用的linux-zen内核，独显驱动仅安装`nvidia-dkms`
+> ~~由于我使用的linux-zen内核，独显驱动仅安装`nvidia-dkms`~~
+> 对于Turing架构及之后的显卡，请使用`nvidia-open`或其他相关的显卡驱动
 
 ```console
 pacman -S mesa xf86-video-amdgpu vulkan-radeon lib32-mesa lib32-vulkan-radeon
-pacman -S nvidia-dkms
+pacman -S nvidia-open
 ```
 
 #### 2.1.5 声音相关
@@ -298,6 +299,9 @@ pacman -S alsa-utils pulseaudio
 ```console
 pacman -S noto-fonts-extra noto-fonts-emoji noto-fonts-cjk ttf-jetbrains-mono
 ```
+
+> 由于打包变化，字体可能会fallback到非预期的字形上，请安装`noto-fonts-cjk-conf`
+{: .prompt-info}
 
 #### 2.1.7 桌面环境
 
@@ -494,7 +498,7 @@ sudo pacman -S paru
   ```
   {: file='~/.config/qq-flags.conf'}
 
-   但是要注意目前wayland下qq点击截屏会闪退，且不论是否跑在Wayland下均无法拖拽文件
+   但是要注意目前wayland下qq点击截屏会闪退~~，且不论是否跑在Wayland下均无法拖拽文件~~
 
 - telegram
 
@@ -525,7 +529,7 @@ sudo pacman -S paru
   paru r3playx-bin
   ```
 
-  如果要让他跑在wayland下
+  如果要让他跑在wayland下，编辑配置文件
 
   ```plaintext
   --enable-features=WaylandWindowDecorations
@@ -578,7 +582,7 @@ sudo pacman -S paru
 
   ![chrome-flags](flags.png)
 
-  目前遇到了Chrome在Wayland下拖入文件后鼠标失效以及右键菜单位置错误的问题
+  ~~目前遇到了Chrome在Wayland下拖入文件后鼠标失效以及右键菜单位置错误的问题~~
 
 - FireFox
 
@@ -586,23 +590,38 @@ sudo pacman -S paru
   paru firefox
   ```
 
+  > 如果遇到中英文混杂的问题，请安装`firefox-i18n-zh-cn`，并将`设置-扩展和主题-语言`中的中文语言包移除，若移除后仍然存在问题，继续移除至无法再移除。
+  {: .prompt-info}
+
 #### 2.3.6 工具
 
 - Ark
 
+   压缩和解压缩工具
+
 - OBS
+
+   直播和录制工具
 
 - Gwenview
 
+   图片查看器
+
 - Spectacle
 
+   截图工具
+
 - Okular
+
+   PDF文档查看器
 
 - KDEConnect
 
 - Clash-verge
 
 - Kate
+
+   文本编辑器
 
 - Filelight
 
@@ -775,7 +794,9 @@ sudo pacman -S paru
 
 - [ ] VSCode将`Title Bar Style`修改为`native`后，弹出菜单位置错误
 
-- [ ] linuxqq没有音视频通话、屏幕共享、远程协助功能
+- [x] linuxqq没有音视频通话功能
+
+- [ ] linuxqq没有屏幕共享、远程协助功能
 
 - [ ] linuxqq在KDE下截图失效
 
