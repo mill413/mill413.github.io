@@ -218,6 +218,7 @@ compress_html:
   ignore:
     envs: [development]
 
+# don't change it!
 exclude:
   - "*.gem"
   - "*.gemspec"
@@ -227,6 +228,8 @@ exclude:
   - LICENSE
   - "*.config.js"
   - package*.json
+  - assets/jekyll-archives/docs
+  - assets/jekyll-archives/test/source
 
 jekyll-archives:
   enabled: [categories, tags]
