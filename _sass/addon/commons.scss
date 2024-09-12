@@ -240,13 +240,14 @@ i {
 
 #external-links {
   a {
+    color: inherit;
     &:hover {
       @extend %link-hover;
     }
 
     @extend %no-bottom-border;
 
-    color: inherit;
+    
   }
 }
 
