@@ -792,11 +792,11 @@ sudo pacman -S paru
 
 - [ ] VSCode在Wayland下任务管理器图标异常
 
-- [ ] VSCode将`Title Bar Style`修改为`native`后，弹出菜单位置错误
+- [x] VSCode将`Title Bar Style`修改为`native`后，弹出菜单位置错误
 
-- [x] linuxqq没有音视频通话功能
+- [x] linuxqq没有音视频通话、屏幕共享功能
 
-- [ ] linuxqq没有屏幕共享、远程协助功能
+- [ ] linuxqq没有远程协助功能
 
 - [ ] linuxqq在KDE下截图失效
 
@@ -807,5 +807,3 @@ sudo pacman -S paru
 - [ ] telegram自动夜间模式失效
 
 - [ ] MS Office无原生linux方案
-
-- [ ] 云原神、云铁道没有适配chrome
