@@ -7,7 +7,7 @@ tags: [pacman, hooks, wps, fcitx]
 img_path: "/assets/img/posts/"
 ---
 
-AUR里的WPS更新到12.1后fcitx输入法无法正常使用，参考![这篇博客](https://wszqkzqk.github.io/2024/03/09/WPS-Fcitx5/)，评论区有人提到可以使用Pacman Hooks自动化patch，但是他给出的命令有一点小问题，sed会找不到.desktop文件，初步排查后猜测原因可能是执行时文件还未生成，于是加上了2秒的延迟
+AUR里的WPS更新到12.1后fcitx输入法无法正常使用，参考[这篇博客](https://wszqkzqk.github.io/2024/03/09/WPS-Fcitx5/)，评论区有人提到可以使用Pacman Hooks自动化patch，但是他给出的命令有一点小问题，sed会找不到.desktop文件，初步排查后猜测原因可能是执行时文件还未生成，于是加上了2秒的延迟
 
 ```text
 [Trigger]
