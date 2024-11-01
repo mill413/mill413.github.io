@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: 彩虹岛 # the main title
 
-tagline: 人们因何而沉睡 # it will display as the subtitle
+tagline: 计算机的世界没有魔法 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A personal blog.
