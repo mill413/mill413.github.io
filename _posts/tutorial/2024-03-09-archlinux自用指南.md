@@ -804,6 +804,6 @@ sudo pacman -S paru
 
 - [ ] 网易云音乐没有linux包
 
-- [ ] telegram自动夜间模式失效
+- [x] telegram自动夜间模式失效
 
 - [ ] MS Office无原生linux方案
