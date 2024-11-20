@@ -241,6 +241,7 @@ i {
 #external-links {
   a {
     color: inherit;
+
     &:hover {
       @extend %link-hover;
     }
