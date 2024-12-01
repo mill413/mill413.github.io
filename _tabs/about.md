@@ -9,7 +9,7 @@ order: 5
 
 - 🌱 I’m currently learning **Kotlin, Rust, C#**
 
-- 📝 I regularly write articles on [mill413.github.io](mill413.github.io)
+- 📝 I regularly write articles on [mill413.github.io](https://mill413.github.io)
 
 - 💬 Ask me about **Kotlin，Python**
 
