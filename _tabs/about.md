@@ -4,33 +4,88 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-## 基本信息 | Basic Information 👋
+<h1 align="center">Hi 👋, I'm mill413</h1>
+<h3 align="center">No magic in computer, but bugs</h3>
 
-Mill是南极洲的一个岛屿      \| Mill is an island in Antarctica.
+- 🌱 I’m currently learning **Kotlin, Rust, C#**
 
-使用Python学习计算机视觉中  \| Learning CV with Python
+- 📝 I regularly write articles on [mill413.github.io](mill413.github.io)
 
-NS玩家                   \| Nintendo Switch player
+- 💬 Ask me about **Kotlin，Python**
 
-正在学习Kotlin和Rust      \| Learning Kotlin & Rust
+- 📫 How to reach me **mill413@outlook.com**
 
-Archlinux用户            \| Archlinux User Recently
+- ⚡ Fun fact **I hate JavaScript.**
 
-欢迎来我的[**博客**](https://mill413.github.io/)  \| Welcome to my [**Blog**](https://mill413.github.io/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.archlinux.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg"
+      alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
+      alt="kotlin"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
+      alt="rust"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+      alt="sqlite"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
 
-----------------------
 
-## 语言和工具  | Languages & Tools
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mill413&show_icons=true&theme=tokyonight&locale=en" alt="mill413" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mill413&hide=HTML,css,php&layout=compact&show_icons=true" alt="">
 
-![kotlin](https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=Kotlin&logoColor=fff)
-![cpp](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
-![python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=fff)
-![rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust&logoColor=fff)
-
-![archlinux](https://img.shields.io/badge/-ArchLinux-blue?style=flat-square&logo=archlinux&logoColor=fff)
-![kde](https://img.shields.io/badge/-KDE-blue?style=flat-square&logo=kde&logoColor=fff)
-
-![conda](https://img.shields.io/badge/-Anaconda-green?style=flat-square&logo=Anaconda&logoColor=fff)
-![pytorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch&logoColor=fff)
