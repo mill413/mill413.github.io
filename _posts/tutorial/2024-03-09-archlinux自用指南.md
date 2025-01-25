@@ -800,10 +800,16 @@ sudo pacman -S paru
 
 - [ ] linuxqq在KDE下截图失效
 
+- [ ] linuxqq通知提示音失效
+
 - [x] 微信官方没有linux包
+
+- [ ] 微信消息通知没有弹窗
 
 - [ ] 网易云音乐没有linux包
 
 - [x] telegram自动夜间模式失效
 
 - [ ] MS Office无原生linux方案
+
+- [ ] n卡睡眠失效
