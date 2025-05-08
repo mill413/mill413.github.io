@@ -227,7 +227,7 @@ exclude:
   - README.md
   - LICENSE
   - purgecss.js
-  - rollup.config.js
+  - "*.config.js"
   - "package*.json"
   - "*.config.js"
   - assets/jekyll-archives/docs
