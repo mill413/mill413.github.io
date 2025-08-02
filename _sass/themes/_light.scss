@@ -1,30 +1,26 @@
 @mixin styles {
   /* Framework color */
-  --main-bg: rgb(239  241  245); /* latte base */
-  --mask-bg: rgb(230  233  239); /* latte mantle */
-  --main-border-color: rgb(220  223  230); /* latte crust */
+  --main-bg: rgb(239 241 245); /* latte base */
+  --mask-bg: rgb(230 233 239); /* latte mantle */
+  --main-border-color: rgb(220 223 230); /* latte crust */
 
   /* Common color */
-  --text-color: rgb(76  79  105); /* latte text */
-  --text-muted-color: rgb(108  111  133); /* latte subtext1 */
-  --text-muted-highlight-color: rgb(136  139  157); /* latte subtext0 */
-  --heading-color: rgb(76  79  105); /* latte text */
-  --label-color: rgb(136  139  157); /* latte subtext0 */
-  --blockquote-border-color: rgb(184  187  204); /* latte overlay0 */
-  --blockquote-text-color: rgb(108  111  133); /* latte subtext1 */
-  --link-color: rgb(30  102  245); /* latte blue */
-  --link-underline-color: rgb(4  87  214); /* latte sapphire */
-  --button-bg: rgb(239  241  245); /* latte base */
-  --btn-border-color: rgb(220  223  230); /* latte crust */
+  --text-color: rgb(76 79 105); /* latte text */
+  --text-muted-color: rgb(108 111 133); /* latte subtext1 */
+  --text-muted-highlight-color: rgb(136 139 157); /* latte subtext0 */
+  --heading-color: rgb(76 79 105); /* latte text */
+  --label-color: rgb(136 139 157); /* latte subtext0 */
+  --blockquote-border-color: rgb(184 187 204); /* latte overlay0 */
+  --blockquote-text-color: rgb(108 111 133); /* latte subtext1 */
+  --link-color: rgb(30 102 245); /* latte blue */
+  --link-underline-color: rgb(4 87 214); /* latte sapphire */
+  --button-bg: rgb(239 241 245); /* latte base */
+  --btn-border-color: rgb(220 223 230); /* latte crust */
   --btn-backtotop-color: var(--text-color);
-  --btn-backtotop-border-color: rgb(230  233  239); /* latte mantle */
-  --checkbox-color: rgb(108  111  133); /* latte subtext1 */
+  --btn-backtotop-border-color: rgb(230 233 239); /* latte mantle */
+  --checkbox-color: rgb(108 111 133); /* latte subtext1 */
   --checkbox-checked-color: var(--link-color);
-  --img-bg: radial-gradient(
-    circle,
-    rgb(250  250  250) 0%,
-    rgb(230  233  239) 100%
-  );
+  --img-bg: radial-gradient(circle, rgb(250 250 250) 0%, rgb(230 233 239) 100%);
   --shimmer-bg: linear-gradient(
     90deg,
     rgb(250 250 250 / 0%) 0%,
@@ -33,77 +29,77 @@
   );
 
   /* Sidebar */
-  --site-title-color: rgb(136  139  157); /* latte subtext0 */
-  --site-subtitle-color: rgb(108  111  133); /* latte subtext1 */
-  --sidebar-bg: rgb(230  233  239); /* latte mantle */
-  --sidebar-border-color: rgb(220  223  230); /* latte crust */
-  --sidebar-muted-color: rgb(108  111  133); /* latte subtext1 */
-  --sidebar-active-color: rgb(76  79  105); /* latte text */
-  --sidebar-hover-bg: rgb(200  204  219); /* latte surface1 */
-  --sidebar-btn-bg: rgb(205  208  223); /* latte surface0 */
-  --sidebar-btn-color: rgb(108  111  133); /* latte subtext1 */
-  --avatar-border-color: rgb(136  139  157  0.9); /* latte subtext0 */
+  --site-title-color: rgb(136 139 157); /* latte subtext0 */
+  --site-subtitle-color: rgb(108 111 133); /* latte subtext1 */
+  --sidebar-bg: rgb(230 233 239); /* latte mantle */
+  --sidebar-border-color: rgb(220 223 230); /* latte crust */
+  --sidebar-muted-color: rgb(108 111 133); /* latte subtext1 */
+  --sidebar-active-color: rgb(76 79 105); /* latte text */
+  --sidebar-hover-bg: rgb(200 204 219); /* latte surface1 */
+  --sidebar-btn-bg: rgb(205 208 223); /* latte surface0 */
+  --sidebar-btn-color: rgb(108 111 133); /* latte subtext1 */
+  --avatar-border-color: rgb(136 139 157 0.9); /* latte subtext0 */
 
   /* Topbar */
-  --topbar-bg: rgb(239  241  245  / 64%); /* latte base with transparency */
+  --topbar-bg: rgb(239 241 245 / 64%); /* latte base with transparency */
   --topbar-text-color: var(--text-color);
-  --search-border-color: rgb(184  187  204); /* latte overlay1 */
-  --search-icon-color: rgb(153  157  180); /* latte overlay2 */
-  --input-focus-border-color: rgb(136  139  157); /* latte overlay2 */
+  --search-border-color: rgb(184 187 204); /* latte overlay1 */
+  --search-icon-color: rgb(153 157 180); /* latte overlay2 */
+  --input-focus-border-color: rgb(136 139 157); /* latte overlay2 */
 
   /* Home page */
-  --post-list-text-color: rgb(105  105  105); /* latte text */
-  --btn-patinator-text-color: rgb(85  85  85); /* latte subtext1 */
+  --post-list-text-color: rgb(105 105 105); /* latte text */
+  --btn-patinator-text-color: rgb(85 85 85); /* latte subtext1 */
   --btn-paginator-hover-color: var(--sidebar-bg);
 
   /* Posts */
-  --toc-highlight: rgb(30  102  245); /* latte blue */
-  --toc-popup-border-color: rgb(184  187  204); /* latte overlay1 */
-  --btn-share-color: rgb(108  111  133); /* latte subtext1 */
-  --btn-share-hover-color: rgb(30  102  245); /* latte blue */
-  --card-bg: rgb(239  241  245); /* latte base */
-  --card-hover-bg: rgb(200  204  219); /* latte surface2 */
-  --card-shadow: rgb(104  104  104  / 5%) 0 2px 6px 0,
-    rgb(211  209  209  / 15%) 0 0 0 1px;
-  --footnote-target-bg: rgb(30  102  245); /* latte blue */
-  --tb-odd-bg: rgb(200  204  219); /* latte surface1 */
-  --tb-border-color: rgb(220  223  230); /* latte crust */
-  --dash-color: rgb(192  192  192); /* latte surface0 */
-  --kbd-wrap-color: rgb(189  189  189); /* latte subtext1 */
+  --toc-highlight: rgb(30 102 245); /* latte blue */
+  --toc-popup-border-color: rgb(184 187 204); /* latte overlay1 */
+  --btn-share-color: rgb(108 111 133); /* latte subtext1 */
+  --btn-share-hover-color: rgb(30 102 245); /* latte blue */
+  --card-bg: rgb(239 241 245); /* latte base */
+  --card-hover-bg: rgb(200 204 219); /* latte surface2 */
+  --card-shadow: rgb(104 104 104 / 5%) 0 2px 6px 0,
+    rgb(211 209 209 / 15%) 0 0 0 1px;
+  --footnote-target-bg: rgb(30 102 245); /* latte blue */
+  --tb-odd-bg: rgb(200 204 219); /* latte surface1 */
+  --tb-border-color: rgb(220 223 230); /* latte crust */
+  --dash-color: rgb(192 192 192); /* latte surface0 */
+  --kbd-wrap-color: rgb(189 189 189); /* latte subtext1 */
   --kbd-text-color: var(--text-color); /* latte text */
-  --kbd-bg-color: rgb(255  255  255); /* latte base */
-  --prompt-text-color: rgb(76  79  105  0.77); /* latte text */
-  --prompt-tip-bg: rgb(123  247  144  0.2); /* latte green */
-  --prompt-tip-icon-color: rgb(3  179  3); /* latte green */
-  --prompt-info-bg: rgb(225  245  254); /* latte info */
-  --prompt-info-icon-color: rgb(0  112  203); /* latte sapphire */
-  --prompt-warning-bg: rgb(255  243  205); /* latte yellow */
-  --prompt-warning-icon-color: rgb(239  156  3); /* latte yellow */
-  --prompt-danger-bg: rgb(248  215  218  0.56); /* latte red */
-  --prompt-danger-icon-color: rgb(223  60  48); /* latte red */
+  --kbd-bg-color: rgb(255 255 255); /* latte base */
+  --prompt-text-color: rgb(76 79 105 0.77); /* latte text */
+  --prompt-tip-bg: rgb(123 247 144 0.2); /* latte green */
+  --prompt-tip-icon-color: rgb(3 179 3); /* latte green */
+  --prompt-info-bg: rgb(225 245 254); /* latte info */
+  --prompt-info-icon-color: rgb(0 112 203); /* latte sapphire */
+  --prompt-warning-bg: rgb(255 243 205); /* latte yellow */
+  --prompt-warning-icon-color: rgb(239 156 3); /* latte yellow */
+  --prompt-danger-bg: rgb(248 215 218 0.56); /* latte red */
+  --prompt-danger-icon-color: rgb(223 60 48); /* latte red */
 
   /* Tags */
-  --tag-border: rgb(222  226  230); /* latte surface1 */
+  --tag-border: rgb(222 226 230); /* latte surface1 */
   --tag-shadow: var(--btn-border-color);
   --tag-hover: rgb(222 226 230); /* latte surface1 */
-  --search-tag-bg: rgb(248  249  250); /* latte surface0 */
+  --search-tag-bg: rgb(248 249 250); /* latte surface0 */
 
   /* Categories */
-  --categories-border: rgb(0  0  0  /12.5%); /* latte surface0 */
+  --categories-border: rgb(0 0 0 /12.5%); /* latte surface0 */
   --categories-hover-bg: var(--btn-border-color); /* latte surface1 */
-  --categories-icon-hover-color: rgb(76  79  105); /* latte text */
+  --categories-icon-hover-color: rgb(76 79 105); /* latte text */
 
   /* Archive */
-  --timeline-color: rgb(0  0  0  /7.5%); /* latte overlay1 */
-  --timeline-node-bg: rgb(194  198  204); /* latte surface1 */
-  --timeline-year-dot-color: rgb(255  255  255); /* latte base */
+  --timeline-color: rgb(0 0 0 /7.5%); /* latte overlay1 */
+  --timeline-node-bg: rgb(194 198 204); /* latte surface1 */
+  --timeline-year-dot-color: rgb(255 255 255); /* latte base */
 
   /* --- Custom code light mode colors --- */
   --language-border-color: #ececec;
   --highlight-bg-color: #f6f8fa;
   --highlighter-rouge-color: #3f596f;
   --highlight-lineno-color: #9e9e9e;
-  --inline-code-bg: rgb(25  25  28  / 5%);
+  --inline-code-bg: rgb(25 25 28 / 5%);
   --code-color: #3a3a3a;
   --code-header-text-color: #a3a3a3;
   --code-header-muted-color: #e5e5e5;
@@ -111,7 +107,7 @@
   --clipboard-checked-color: #43c743;
 
   [class^='prompt-'] {
-    --link-underline-color: rgb(219  216  216);
+    --link-underline-color: rgb(219 216 216);
   }
 
   .dark {
@@ -130,8 +126,8 @@
 
   .highlight,
   .highlight .w {
-    color: rgb(76  79  105); /* latte text */
-    background-color: rgb(250  250  250); /* latte base */
+    color: rgb(76 79 105); /* latte text */
+    background-color: rgb(250 250 250); /* latte base */
   }
 
   .highlight .k,
@@ -141,53 +137,53 @@
   .highlight .kr,
   .highlight .kt,
   .highlight .kv {
-    color: rgb(207  34  46); /* latte red */
+    color: rgb(207 34 46); /* latte red */
   }
 
   .highlight .gr {
-    color: rgb(250  250  250); /* latte base */
+    color: rgb(250 250 250); /* latte base */
   }
 
   .highlight .gd {
-    color: rgb(130  7  30); /* latte red */
-    background-color: rgb(255  235  233); /* latte red background */
+    color: rgb(130 7 30); /* latte red */
+    background-color: rgb(255 235 233); /* latte red background */
   }
 
   .highlight .nb {
-    color: rgb(149  56  0); /* latte orange */
+    color: rgb(149 56 0); /* latte orange */
   }
 
   .highlight .nc {
-    color: rgb(149  56  0); /* latte orange */
+    color: rgb(149 56 0); /* latte orange */
   }
 
   .highlight .no {
-    color: rgb(149  56  0); /* latte orange */
+    color: rgb(149 56 0); /* latte orange */
   }
 
   .highlight .nn {
-    color: rgb(149  56  0); /* latte orange */
+    color: rgb(149 56 0); /* latte orange */
   }
 
   .highlight .sr {
-    color: rgb(17  99  41); /* latte green */
+    color: rgb(17 99 41); /* latte green */
   }
 
   .highlight .na {
-    color: rgb(17  99  41); /* latte green */
+    color: rgb(17 99 41); /* latte green */
   }
 
   .highlight .nt {
-    color: rgb(17  99  41); /* latte green */
+    color: rgb(17 99 41); /* latte green */
   }
 
   .highlight .gi {
-    color: rgb(17  99  41); /* latte green */
-    background-color: rgb(218  251  225); /* latte green background */
+    color: rgb(17 99 41); /* latte green */
+    background-color: rgb(218 251 225); /* latte green background */
   }
 
   .highlight .kc {
-    color: rgb(5  80  174); /* latte sapphire */
+    color: rgb(5 80 174); /* latte sapphire */
   }
 
   .highlight .l,
@@ -200,27 +196,27 @@
   .highlight .il,
   .highlight .mo,
   .highlight .mx {
-    color: rgb(5  80  174); /* latte sapphire */
+    color: rgb(5 80 174); /* latte sapphire */
   }
 
   .highlight .sb {
-    color: rgb(5  80  174); /* latte sapphire */
+    color: rgb(5 80 174); /* latte sapphire */
   }
 
   .highlight .bp {
-    color: rgb(5  80  174); /* latte sapphire */
+    color: rgb(5 80 174); /* latte sapphire */
   }
 
   .highlight .ne {
-    color: rgb(5  80  174); /* latte sapphire */
+    color: rgb(5 80 174); /* latte sapphire */
   }
 
   .highlight .nl {
-    color: rgb(5  80  174); /* latte sapphire */
+    color: rgb(5 80 174); /* latte sapphire */
   }
 
   .highlight .py {
-    color: rgb(5  80  174); /* latte sapphire */
+    color: rgb(5 80 174); /* latte sapphire */
   }
 
   .highlight .nv,
@@ -228,21 +224,21 @@
   .highlight .vg,
   .highlight .vi,
   .highlight .vm {
-    color: rgb(5  80  174); /* latte sapphire */
+    color: rgb(5 80 174); /* latte sapphire */
   }
 
   .highlight .o,
   .highlight .ow {
-    color: rgb(5  80  174); /* latte sapphire */
+    color: rgb(5 80 174); /* latte sapphire */
   }
 
   .highlight .gh {
-    color: rgb(5  80  174); /* latte sapphire */
+    color: rgb(5 80 174); /* latte sapphire */
     font-weight: bold;
   }
 
   .highlight .gu {
-    color: rgb(5  80  174); /* latte sapphire */
+    color: rgb(5 80 174); /* latte sapphire */
     font-weight: bold;
   }
 
@@ -257,21 +253,21 @@
   .highlight .sx,
   .highlight .s1,
   .highlight .ss {
-    color: rgb(10  48  105); /* latte dark blue */
+    color: rgb(10 48 105); /* latte dark blue */
   }
 
   .highlight .nd {
-    color: rgb(130  80  223); /* latte purple */
+    color: rgb(130 80 223); /* latte purple */
   }
 
   .highlight .nf,
   .highlight .fm {
-    color: rgb(130  80  223); /* latte purple */
+    color: rgb(130 80 223); /* latte purple */
   }
 
   .highlight .err {
-    color: rgb(250  250  250); /* latte base */
-    background-color: rgb(130  7  30); /* latte red */
+    color: rgb(250 250 250); /* latte base */
+    background-color: rgb(130 7 30); /* latte red */
   }
 
   .highlight .c,
@@ -282,32 +278,32 @@
   .highlight .cpf,
   .highlight .c1,
   .highlight .cs {
-    color: rgb(104  113  122); /* latte muted */
+    color: rgb(104 113 122); /* latte muted */
   }
 
   .highlight .gl {
-    color: rgb(104  113  122); /* latte muted */
+    color: rgb(104 113 122); /* latte muted */
   }
 
   .highlight .gt {
-    color: rgb(104  113  122); /* latte muted */
+    color: rgb(104 113 122); /* latte muted */
   }
 
   .highlight .ni {
-    color: rgb(76  79  105); /* latte text */
+    color: rgb(76 79 105); /* latte text */
   }
 
   .highlight .si {
-    color: rgb(76  79  105); /* latte text */
+    color: rgb(76 79 105); /* latte text */
   }
 
   .highlight .ge {
-    color: rgb(76  79  105); /* latte text */
+    color: rgb(76 79 105); /* latte text */
     font-style: italic;
   }
 
   .highlight .gs {
-    color: rgb(76  79  105); /* latte text */
+    color: rgb(76 79 105); /* latte text */
     font-weight: bold;
   }
 }
