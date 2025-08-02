@@ -26,9 +26,9 @@
   --img-bg: radial-gradient(circle, rgb(30, 32, 48) 0%, rgb(41, 46, 66) 100%);
   --shimmer-bg: linear-gradient(
     90deg,
-    rgba(255, 255, 255, 0) 0%,
-    rgba(58, 55, 55, 0.4) 50%,
-    rgba(255, 255, 255, 0) 100%
+    rgb(255 255 255 / 0%) 0%,
+    rgb(58 55 55 / 40%) 50%,
+    rgb(255 255 255 / 0%) 100%
   );
 
   /* Sidebar */
@@ -62,25 +62,25 @@
   --tb-odd-bg: rgb(49, 54, 75);
   --tb-even-bg: rgb(41, 46, 66);
   --tb-border-color: var(--tb-odd-bg);
-  --footnote-target-bg: rgb(140, 170, 238);
-  --btn-share-color: rgb(166, 173, 200);
-  --btn-share-hover-color: rgb(202, 211, 245);
-  --card-bg: rgb(36, 39, 58);
-  --card-hover-bg: rgb(74, 88, 109);
-  --card-shadow: rgba(21, 21, 21, 0.72) 0 6px 18px 0,
-    rgba(137, 135, 135, 0.24) 0 0 0 1px;
-  --kbd-wrap-color: rgb(108, 112, 134);
-  --kbd-text-color: rgb(202, 211, 245);
-  --kbd-bg-color: rgb(41, 46, 66);
-  --prompt-text-color: rgb(202, 211, 245, 0.75);
-  --prompt-tip-bg: rgb(64, 121, 80, 0.64);
-  --prompt-tip-icon-color: rgb(30, 225, 30, 0.81);
-  --prompt-info-bg: rgb(36, 109, 173, 0.8);
-  --prompt-info-icon-color: rgb(82, 156, 242);
-  --prompt-warning-bg: rgb(194, 141, 30, 0.88);
-  --prompt-warning-icon-color: rgb(255, 183, 0, 0.8);
-  --prompt-danger-bg: rgb(146, 41, 19, 0.8);
-  --prompt-danger-icon-color: rgb(235, 54, 54);
+  --footnote-target-bg: rgb(63 81 181);
+  --btn-share-color: #6c757d;
+  --btn-share-hover-color: #bfc1ca;
+  --card-bg: #1e1e1e;
+  --card-hover-bg: #464d51;
+  --card-shadow: rgb(21 21 21 / 72%) 0 6px 18px 0,
+    rgb(137 135 135 / 24%) 0 0 0 1px;
+  --kbd-wrap-color: #6a6a6a;
+  --kbd-text-color: #d3d3d3;
+  --kbd-bg-color: #242424;
+  --prompt-text-color: rgb(216 212 212 / 75%);
+  --prompt-tip-bg: rgb(22 60 36 / 64%);
+  --prompt-tip-icon-color: rgb(15 164 15 / 81%);
+  --prompt-info-bg: rgb(7 59 104 / 80%);
+  --prompt-info-icon-color: #0075d1;
+  --prompt-warning-bg: rgb(90 69 3 / 88%);
+  --prompt-warning-icon-color: rgb(255 165 0 / 80%);
+  --prompt-danger-bg: rgb(86 28 8 / 80%);
+  --prompt-danger-icon-color: #cd0202;
 
   /* Tags */
   --tag-border: rgb(62, 81, 90);
@@ -99,11 +99,11 @@
   --timeline-year-dot-color: var(--timeline-color);
 
   /* Code highlight colors */
-  --language-border-color: #2e2e2e;
-  --highlight-bg-color: #1c1c1c;
-  --highlighter-rouge-color: #b1d0f3;
-  --highlight-lineno-color: #8f8f8f;
-  --inline-code-bg: rgba(255, 255, 255, 0.05);
+  --language-border-color: #2d2d2d;
+  --highlight-bg-color: #151515;
+  --highlighter-rouge-color: #c9def1;
+  --highlight-lineno-color: #808080;
+  --inline-code-bg: rgb(255 255 255 / 5%);
   --code-color: #b0b0b0;
   --code-header-text-color: #6c6c6c;
   --code-header-muted-color: #353535;
